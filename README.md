@@ -43,8 +43,7 @@ This project aims to solve key challenges by:
 - **Sales Data:** Product ID, category, units sold, total revenue, and region.  
 - **Customer Data:** Customer ID, age group, gender, country, purchase frequency.  
 - **Marketing Data:** Campaign spend, conversion rate, and ROI metrics.  
-
-Raw CSV data files are stored in **Amazon S3** and processed using **AWS Glue** before being queried via **Athena**.  
+- Raw CSV data files are stored in **Amazon S3** and processed using **AWS Glue** before being queried via **Athena**.  
 
 ---
 
@@ -155,7 +154,7 @@ The AWS QuickSight Dashboard provides:
 - cd ecommerce-aws-analytics
 
 2.Install Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3.Upload Data to AWS S3
 - Create an S3 bucket (e.g., ecommerce-data-raw)
@@ -198,6 +197,6 @@ Data Analyst
 
 📧 Email: sandraraj36@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/sandrarajp
+🔗 LinkedIn: [linkedin.com/in/sandrarajp]
 
 📂 Portfolio: [https://sandra-zvtm.vercel.app/]
