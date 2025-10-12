@@ -1,4 +1,4 @@
-# 🛍️ CloudCart: AI-Powered E-Commerce Analytics using AWS  
+# 🛍️ CloudCart: E-Commerce Analytics using AWS  
 
 ![dashboard](https://github.com/user-attachments/assets/f45c7d28-fc0f-4950-89d5-d742a55c2c04)
 
@@ -22,9 +22,9 @@
 ---
 
 ## Overview  
-This project demonstrates an **end-to-end E-Commerce Analytics System** powered by **Amazon Web Services (AWS)**. It enables real-time sales, customer, and performance tracking through an automated data pipeline built using AWS services such as **S3, Glue, Athena, and QuickSight**.  
+This project demonstrates an **end-to-end E-Commerce Analytics System** powered by **Amazon Web Services (AWS)**. It enables real-time sales, customer, and performance tracking through an automated data pipeline built using AWS services such as **S3, Glue, Athena**.  
 
-The solution helps e-commerce teams uncover **revenue trends, customer insights, and product performance** while improving **marketing ROI** and **operational efficiency** through interactive dashboards and AI-driven insights.  
+The solution helps e-commerce teams uncover **revenue trends, customer insights, and product performance** while improving **marketing ROI** and **operational efficiency** through interactive Tableau dashboards.  
 
 ---
 
@@ -60,7 +60,7 @@ Raw CSV data files are stored in **Amazon S3** and processed using **AWS Glue** 
 
 ## 📂 Project Structure  
 
-
+```
 ecommerce-aws-analytics/
 │
 ├── README.md                  # Project documentation
@@ -91,7 +91,7 @@ ecommerce-aws-analytics/
 │   └── analytics_summary.pdf
 │
 └── logs/                       # Glue & Athena logs
-
+```
 ---
 
 ## Data Cleaning & Preparation
@@ -120,16 +120,16 @@ ecommerce-aws-analytics/
 
 ## Research Questions & Key Findings
 
-- Which product categories generate the most revenue?
+1.Which product categories generate the most revenue?
 - Electronics & Fashion contribute 57% of total revenue.
 
-- Which region has the highest conversion rate?
+2.Which region has the highest conversion rate?
 - GCC region shows 1.4× higher conversion compared to APAC.
 
-- Does marketing spend correlate with sales growth?
+3.Does marketing spend correlate with sales growth?
 - Strong positive correlation (r = 0.82).
 
-- Which customer segments drive profitability?
+4.Which customer segments drive profitability?
 - Loyal customers with ≥3 purchases per quarter deliver 65% of profits.
 
 ---
@@ -144,8 +144,6 @@ The AWS QuickSight Dashboard provides:
 
 - Customer Insights: Retention trends and churn analysis
 
-- Revenue Forecasting: ML-based prediction using historical data
-
 - Marketing ROI: Spend vs Return breakdown
 
 ---
@@ -153,29 +151,29 @@ The AWS QuickSight Dashboard provides:
 ## How to Run This Project
 
 1.Clone the Repository
-git clone https://github.com/yourusername/ecommerce-aws-analytics.git
-cd ecommerce-aws-analytics
+- git clone https://github.com/yourusername/ecommerce-aws-analytics.git
+- cd ecommerce-aws-analytics
 
 2.Install Dependencies
 pip install -r requirements.txt
 
 3.Upload Data to AWS S3
-Create an S3 bucket (e.g., ecommerce-data-raw)
+- Create an S3 bucket (e.g., ecommerce-data-raw)
 
 4.Upload your CSV files from /data/
-Run AWS Glue ETL Job
+- Run AWS Glue ETL Job
 
 5.Use /glue_jobs/ecommerce_etl_job.py to process and clean data.
-Store processed outputs in S3 (/processed/).
+- Store processed outputs in S3 (/processed/).
 
 6.Query with AWS Athena
-Configure Athena to read processed data.
+- Configure Athena to read processed data.
 
 7.Execute queries from /scripts/athena_queries.sql.
-Open Dashboard
+- Open Dashboard
 
 8.Import data into Tableau.
-Visualize using the prebuilt dashboard template (/dashboard/).
+- Visualize using the prebuilt dashboard template (/dashboard/).
 
 ---
 
