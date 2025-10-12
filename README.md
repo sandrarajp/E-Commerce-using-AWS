@@ -94,108 +94,100 @@ ecommerce-aws-analytics/
 
 ## Data Cleaning & Preparation
 
-Removed duplicate transactions and missing order IDs.
+- Removed duplicate transactions and missing order IDs.
 
-Standardized currency and date formats.
+- Standardized currency and date formats.
 
-Derived new metrics (profit margin, conversion rate, customer lifetime value).
+- Derived new metrics (profit margin, conversion rate, customer lifetime value).
 
-Partitioned processed data in S3 for optimized Athena queries.
+- Partitioned processed data in S3 for optimized Athena queries.
 
 ## Exploratory Data Analysis (EDA)
 
-Category Trends: Electronics and Apparel lead in total sales volume.
+- Category Trends: Electronics and Apparel lead in total sales volume.
 
-Customer Insights: Repeat purchase rate = 38%; high-value customers prefer Express Delivery.
+- Customer Insights: Repeat purchase rate = 38%; high-value customers prefer Express Delivery.
 
-Seasonality: Sales peaks in November (Holiday Season).
+- Seasonality: Sales peaks in November (Holiday Season).
 
-Marketing ROI: 23% uplift in conversions after campaign optimization.
+- Marketing ROI: 23% uplift in conversions after campaign optimization.
 
 ## Research Questions & Key Findings
 
-Which product categories generate the most revenue?
+- Which product categories generate the most revenue?
 → Electronics & Fashion contribute 57% of total revenue.
 
-Which region has the highest conversion rate?
+- Which region has the highest conversion rate?
 → GCC region shows 1.4× higher conversion compared to APAC.
 
-Does marketing spend correlate with sales growth?
+- Does marketing spend correlate with sales growth?
 → Strong positive correlation (r = 0.82).
 
-Which customer segments drive profitability?
+- Which customer segments drive profitability?
 → Loyal customers with ≥3 purchases per quarter deliver 65% of profits.
 
 ## Dashboard
 
 The AWS QuickSight Dashboard provides:
 
-KPI Overview: Sales, Profit, Orders, Conversion Rate
+- KPI Overview: Sales, Profit, Orders, Conversion Rate
 
-Category & Region Performance: Dynamic filters and drill-downs
+- Category & Region Performance: Dynamic filters and drill-downs
 
-Customer Insights: Retention trends and churn analysis
+- Customer Insights: Retention trends and churn analysis
 
-Revenue Forecasting: ML-based prediction using historical data
+- Revenue Forecasting: ML-based prediction using historical data
 
-Marketing ROI: Spend vs Return breakdown
+- Marketing ROI: Spend vs Return breakdown
 
 ## How to Run This Project
 
-Clone the Repository
-
+1.Clone the Repository
 git clone https://github.com/yourusername/ecommerce-aws-analytics.git
 cd ecommerce-aws-analytics
 
 
-Install Dependencies
-
+2.Install Dependencies
 pip install -r requirements.txt
 
-
-Upload Data to AWS S3
-
+3.Upload Data to AWS S3
 Create an S3 bucket (e.g., ecommerce-data-raw)
 
-Upload your CSV files from /data/
-
+4.Upload your CSV files from /data/
 Run AWS Glue ETL Job
 
-Use /glue_jobs/ecommerce_etl_job.py to process and clean data.
-
+5.Use /glue_jobs/ecommerce_etl_job.py to process and clean data.
 Store processed outputs in S3 (/processed/).
 
-Query with AWS Athena
-
+6.Query with AWS Athena
 Configure Athena to read processed data.
 
-Execute queries from /scripts/athena_queries.sql.
-
+7.Execute queries from /scripts/athena_queries.sql.
 Open Dashboard
 
-Import data into AWS QuickSight.
+8.Import data into Tableau.
 
 Visualize using the prebuilt dashboard template (/dashboard/).
 
 ## Final Recommendations
 
-Automate ETL jobs daily with AWS Glue & CloudWatch triggers.
+- Automate ETL jobs daily with AWS Glue & CloudWatch triggers.
 
-Track customer churn using retention analysis and loyalty scores.
+- Track customer churn using retention analysis and loyalty scores.
 
-Increase marketing spend in high-conversion regions.
+- Increase marketing spend in high-conversion regions.
 
-Expand personalized recommendations using ML-based models.
+- Expand personalized recommendations using ML-based models.
 
-Deploy real-time monitoring for top 10 product categories.
+- Deploy real-time monitoring for top 10 product categories.
 
 ## 👤 Author & Contact
 
 Sandra Raj P
-Data Analyst | AWS | Python | Power BI | E-Commerce Analytics
+Data Analyst 
 
 📧 Email: sandraraj36@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/sandrarajp
 
-📂 Portfolio: [Your Portfolio Link]
+📂 Portfolio: [https://sandra-zvtm.vercel.app/]
