@@ -92,6 +92,8 @@ ecommerce-aws-analytics/
 │
 └── logs/                       # Glue & Athena logs
 
+---
+
 ## Data Cleaning & Preparation
 
 - Removed duplicate transactions and missing order IDs.
@@ -101,6 +103,8 @@ ecommerce-aws-analytics/
 - Derived new metrics (profit margin, conversion rate, customer lifetime value).
 
 - Partitioned processed data in S3 for optimized Athena queries.
+
+---
 
 ## Exploratory Data Analysis (EDA)
 
@@ -112,19 +116,23 @@ ecommerce-aws-analytics/
 
 - Marketing ROI: 23% uplift in conversions after campaign optimization.
 
+---
+
 ## Research Questions & Key Findings
 
 - Which product categories generate the most revenue?
-→ Electronics & Fashion contribute 57% of total revenue.
+- Electronics & Fashion contribute 57% of total revenue.
 
 - Which region has the highest conversion rate?
-→ GCC region shows 1.4× higher conversion compared to APAC.
+- GCC region shows 1.4× higher conversion compared to APAC.
 
 - Does marketing spend correlate with sales growth?
-→ Strong positive correlation (r = 0.82).
+- Strong positive correlation (r = 0.82).
 
 - Which customer segments drive profitability?
-→ Loyal customers with ≥3 purchases per quarter deliver 65% of profits.
+- Loyal customers with ≥3 purchases per quarter deliver 65% of profits.
+
+---
 
 ## Dashboard
 
@@ -140,12 +148,13 @@ The AWS QuickSight Dashboard provides:
 
 - Marketing ROI: Spend vs Return breakdown
 
+---
+
 ## How to Run This Project
 
 1.Clone the Repository
 git clone https://github.com/yourusername/ecommerce-aws-analytics.git
 cd ecommerce-aws-analytics
-
 
 2.Install Dependencies
 pip install -r requirements.txt
@@ -166,8 +175,9 @@ Configure Athena to read processed data.
 Open Dashboard
 
 8.Import data into Tableau.
-
 Visualize using the prebuilt dashboard template (/dashboard/).
+
+---
 
 ## Final Recommendations
 
@@ -181,6 +191,8 @@ Visualize using the prebuilt dashboard template (/dashboard/).
 
 - Deploy real-time monitoring for top 10 product categories.
 
+
+---
 ## 👤 Author & Contact
 
 Sandra Raj P
