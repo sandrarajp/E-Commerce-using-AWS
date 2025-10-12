@@ -1,0 +1,2001 @@
+order_id,customer_id,product_id,order_date,emirate,status
+1,14,151,2024-07-16,Dubai,Delivered
+2,3,122,2024-02-25,Sharjah,Delivered
+3,216,167,2023-02-15,Umm Al Quwain,Delivered
+4,229,126,2024-08-22,Dubai,Returned
+5,336,57,2023-09-26,Sharjah,Cancelled
+6,186,81,2024-01-16,Abu Dhabi,Returned
+7,55,162,2023-04-28,Abu Dhabi,Delivered
+8,500,169,2024-07-19,Fujairah,Delivered
+9,388,73,2023-04-26,Ras Al Khaimah,Delivered
+10,376,141,2023-09-17,Abu Dhabi,Cancelled
+11,254,70,2023-03-16,Fujairah,Delivered
+12,24,6,2024-04-24,Umm Al Quwain,Delivered
+13,162,84,2023-11-01,Dubai,Delivered
+14,158,52,2023-01-07,Abu Dhabi,Delivered
+15,82,3,2024-01-01,Dubai,Delivered
+16,403,81,2024-06-06,Dubai,Delivered
+17,159,63,2023-12-14,Ras Al Khaimah,Delivered
+18,188,49,2024-03-13,Abu Dhabi,Returned
+19,60,76,2023-08-03,Dubai,Delivered
+20,403,112,2024-03-04,Ras Al Khaimah,Delivered
+21,305,175,2024-05-12,Ras Al Khaimah,Delivered
+22,319,109,2024-06-23,Abu Dhabi,Delivered
+23,366,183,2024-01-02,Ras Al Khaimah,Returned
+24,211,192,2023-11-09,Abu Dhabi,Delivered
+25,406,65,2024-06-21,Abu Dhabi,Delivered
+26,152,81,2023-02-23,Sharjah,Delivered
+27,109,195,2024-06-24,Dubai,Cancelled
+28,76,15,2024-04-11,Ajman,Delivered
+29,30,100,2023-06-13,Abu Dhabi,Delivered
+30,314,32,2023-11-30,Dubai,Delivered
+31,486,96,2024-06-30,Umm Al Quwain,Delivered
+32,117,128,2023-12-14,Ras Al Khaimah,Delivered
+33,415,196,2023-09-30,Fujairah,Returned
+34,356,146,2024-02-18,Abu Dhabi,Delivered
+35,192,113,2024-05-14,Ras Al Khaimah,Cancelled
+36,19,83,2023-04-03,Ras Al Khaimah,Delivered
+37,432,43,2023-03-20,Ras Al Khaimah,Delivered
+38,173,116,2023-08-05,Ras Al Khaimah,Delivered
+39,228,163,2023-12-24,Ras Al Khaimah,Returned
+40,350,78,2024-05-21,Abu Dhabi,Delivered
+41,183,58,2024-07-12,Umm Al Quwain,Returned
+42,113,33,2023-06-30,Ajman,Cancelled
+43,183,14,2024-07-29,Sharjah,Cancelled
+44,481,162,2023-09-03,Ras Al Khaimah,Delivered
+45,146,189,2023-09-01,Ras Al Khaimah,Delivered
+46,319,132,2024-05-20,Sharjah,Returned
+47,116,59,2024-02-26,Umm Al Quwain,Delivered
+48,113,157,2023-11-16,Umm Al Quwain,Delivered
+49,251,83,2023-03-28,Abu Dhabi,Delivered
+50,476,134,2023-08-05,Dubai,Delivered
+51,251,121,2024-05-04,Fujairah,Delivered
+52,303,177,2024-06-02,Fujairah,Delivered
+53,459,168,2023-10-05,Dubai,Delivered
+54,313,83,2023-06-18,Abu Dhabi,Delivered
+55,118,193,2023-11-26,Fujairah,Delivered
+56,301,197,2024-03-16,Umm Al Quwain,Delivered
+57,161,27,2024-01-26,Sharjah,Delivered
+58,401,80,2024-05-10,Dubai,Delivered
+59,198,134,2024-01-16,Umm Al Quwain,Delivered
+60,260,13,2023-11-02,Ajman,Delivered
+61,148,64,2024-05-27,Abu Dhabi,Delivered
+62,240,190,2023-07-07,Dubai,Delivered
+63,47,147,2024-05-30,Fujairah,Delivered
+64,475,80,2024-03-02,Abu Dhabi,Returned
+65,399,123,2024-05-16,Sharjah,Delivered
+66,198,43,2023-09-17,Abu Dhabi,Delivered
+67,47,89,2024-05-27,Abu Dhabi,Delivered
+68,78,148,2023-03-12,Sharjah,Delivered
+69,124,95,2024-04-22,Ras Al Khaimah,Delivered
+70,75,196,2023-06-27,Sharjah,Delivered
+71,359,172,2024-04-01,Umm Al Quwain,Delivered
+72,137,151,2023-07-08,Abu Dhabi,Delivered
+73,90,2,2023-10-18,Sharjah,Delivered
+74,400,120,2024-06-03,Ras Al Khaimah,Cancelled
+75,325,22,2023-10-19,Umm Al Quwain,Delivered
+76,500,115,2023-10-10,Dubai,Delivered
+77,61,57,2024-06-27,Sharjah,Delivered
+78,138,72,2024-01-12,Sharjah,Delivered
+79,50,7,2023-06-05,Abu Dhabi,Returned
+80,259,184,2024-05-22,Umm Al Quwain,Delivered
+81,461,119,2024-02-17,Dubai,Delivered
+82,107,195,2024-06-11,Ajman,Returned
+83,113,114,2023-12-21,Ajman,Delivered
+84,350,16,2024-07-12,Fujairah,Delivered
+85,254,83,2023-07-06,Sharjah,Cancelled
+86,118,179,2023-01-31,Sharjah,Delivered
+87,493,72,2023-09-17,Dubai,Delivered
+88,198,124,2024-02-25,Ras Al Khaimah,Delivered
+89,337,113,2024-06-12,Ajman,Delivered
+90,365,12,2024-07-04,Fujairah,Delivered
+91,51,126,2023-10-31,Dubai,Returned
+92,245,53,2023-02-08,Sharjah,Delivered
+93,403,75,2024-05-03,Ajman,Delivered
+94,426,133,2024-06-25,Umm Al Quwain,Cancelled
+95,35,27,2023-10-05,Fujairah,Delivered
+96,302,140,2023-07-22,Abu Dhabi,Delivered
+97,410,145,2023-03-07,Ajman,Delivered
+98,499,134,2023-04-18,Fujairah,Cancelled
+99,69,97,2023-09-25,Dubai,Returned
+100,349,5,2023-08-10,Abu Dhabi,Delivered
+101,320,57,2024-06-13,Fujairah,Delivered
+102,421,156,2023-03-31,Fujairah,Delivered
+103,468,78,2023-09-12,Sharjah,Cancelled
+104,49,69,2024-03-30,Ras Al Khaimah,Delivered
+105,405,118,2023-09-10,Ajman,Delivered
+106,74,120,2023-09-14,Sharjah,Returned
+107,192,59,2024-01-18,Umm Al Quwain,Delivered
+108,261,33,2024-03-17,Abu Dhabi,Delivered
+109,356,62,2024-08-21,Ras Al Khaimah,Delivered
+110,70,50,2023-03-31,Fujairah,Delivered
+111,90,112,2024-01-25,Sharjah,Delivered
+112,260,19,2024-08-04,Ras Al Khaimah,Cancelled
+113,126,197,2023-02-13,Umm Al Quwain,Delivered
+114,231,123,2024-08-20,Ajman,Delivered
+115,295,194,2023-01-19,Umm Al Quwain,Delivered
+116,498,47,2023-04-11,Abu Dhabi,Delivered
+117,419,167,2023-12-23,Dubai,Delivered
+118,129,196,2024-06-25,Sharjah,Delivered
+119,280,33,2023-02-02,Abu Dhabi,Returned
+120,313,141,2023-08-17,Dubai,Delivered
+121,100,84,2024-06-07,Sharjah,Delivered
+122,326,182,2023-06-04,Abu Dhabi,Delivered
+123,297,135,2024-02-27,Umm Al Quwain,Cancelled
+124,182,79,2023-09-03,Abu Dhabi,Delivered
+125,174,14,2024-02-09,Ras Al Khaimah,Returned
+126,316,147,2024-06-24,Umm Al Quwain,Delivered
+127,364,128,2023-06-10,Sharjah,Cancelled
+128,188,54,2023-04-27,Abu Dhabi,Delivered
+129,57,148,2023-09-28,Fujairah,Returned
+130,31,29,2024-05-01,Sharjah,Delivered
+131,84,24,2023-06-21,Abu Dhabi,Delivered
+132,152,82,2023-10-01,Ras Al Khaimah,Delivered
+133,473,63,2023-09-16,Dubai,Returned
+134,36,105,2023-05-15,Dubai,Delivered
+135,213,57,2024-02-26,Fujairah,Cancelled
+136,414,136,2024-02-25,Sharjah,Returned
+137,408,62,2023-07-05,Ras Al Khaimah,Delivered
+138,364,157,2023-12-30,Abu Dhabi,Returned
+139,106,17,2024-01-13,Abu Dhabi,Delivered
+140,414,66,2024-06-06,Dubai,Delivered
+141,342,6,2024-08-02,Ras Al Khaimah,Delivered
+142,220,58,2023-07-15,Umm Al Quwain,Delivered
+143,391,69,2023-04-08,Fujairah,Delivered
+144,163,156,2023-01-22,Dubai,Delivered
+145,439,62,2024-03-25,Dubai,Delivered
+146,220,169,2023-06-21,Fujairah,Delivered
+147,270,197,2024-01-18,Sharjah,Delivered
+148,120,82,2023-05-14,Abu Dhabi,Delivered
+149,394,169,2024-03-01,Sharjah,Returned
+150,336,177,2023-01-25,Ras Al Khaimah,Delivered
+151,400,177,2024-05-17,Umm Al Quwain,Delivered
+152,182,71,2023-07-04,Ajman,Delivered
+153,479,131,2023-03-26,Ajman,Delivered
+154,106,10,2024-07-20,Ajman,Returned
+155,217,98,2023-05-24,Fujairah,Delivered
+156,205,89,2024-02-16,Dubai,Delivered
+157,70,35,2023-08-12,Umm Al Quwain,Delivered
+158,44,2,2023-08-08,Sharjah,Delivered
+159,329,124,2023-06-28,Abu Dhabi,Cancelled
+160,301,24,2024-03-08,Ajman,Returned
+161,228,74,2023-09-22,Sharjah,Delivered
+162,184,166,2024-03-04,Ajman,Delivered
+163,107,22,2024-02-20,Umm Al Quwain,Delivered
+164,84,154,2024-03-28,Ajman,Delivered
+165,338,171,2023-07-16,Abu Dhabi,Returned
+166,250,183,2024-07-07,Ras Al Khaimah,Returned
+167,363,39,2023-02-22,Ras Al Khaimah,Delivered
+168,441,157,2024-04-24,Umm Al Quwain,Cancelled
+169,21,20,2024-03-18,Ras Al Khaimah,Delivered
+170,196,41,2023-11-26,Fujairah,Delivered
+171,178,182,2023-09-08,Dubai,Delivered
+172,417,148,2023-05-03,Fujairah,Delivered
+173,475,108,2024-01-22,Sharjah,Delivered
+174,7,147,2023-12-05,Fujairah,Delivered
+175,70,84,2023-12-14,Sharjah,Delivered
+176,127,111,2023-01-29,Sharjah,Delivered
+177,399,66,2023-02-04,Dubai,Returned
+178,466,158,2024-06-01,Abu Dhabi,Delivered
+179,160,53,2024-01-31,Umm Al Quwain,Delivered
+180,248,34,2023-10-21,Dubai,Returned
+181,203,150,2024-08-11,Umm Al Quwain,Cancelled
+182,148,67,2023-12-15,Ras Al Khaimah,Cancelled
+183,472,134,2023-05-27,Ras Al Khaimah,Delivered
+184,143,27,2023-03-08,Fujairah,Delivered
+185,432,10,2024-06-03,Sharjah,Delivered
+186,199,73,2023-05-02,Ajman,Delivered
+187,405,96,2023-12-06,Ajman,Cancelled
+188,426,48,2023-06-24,Umm Al Quwain,Delivered
+189,154,70,2024-08-19,Sharjah,Delivered
+190,492,187,2024-03-26,Umm Al Quwain,Delivered
+191,376,100,2024-07-10,Dubai,Delivered
+192,384,59,2023-05-16,Abu Dhabi,Returned
+193,142,2,2023-01-16,Dubai,Delivered
+194,313,157,2023-11-29,Sharjah,Delivered
+195,165,196,2023-07-14,Sharjah,Delivered
+196,314,65,2024-05-10,Abu Dhabi,Delivered
+197,21,83,2023-01-09,Umm Al Quwain,Delivered
+198,82,154,2023-11-30,Fujairah,Delivered
+199,69,10,2023-11-29,Fujairah,Delivered
+200,131,53,2023-11-23,Abu Dhabi,Delivered
+201,87,79,2023-01-15,Fujairah,Cancelled
+202,218,59,2023-08-14,Ajman,Cancelled
+203,421,150,2024-02-29,Fujairah,Cancelled
+204,472,179,2024-02-12,Fujairah,Delivered
+205,305,48,2023-04-23,Fujairah,Delivered
+206,403,149,2024-03-03,Ajman,Delivered
+207,371,123,2023-01-01,Umm Al Quwain,Returned
+208,345,22,2023-09-23,Fujairah,Cancelled
+209,341,100,2024-05-05,Ras Al Khaimah,Returned
+210,384,98,2023-07-27,Ajman,Delivered
+211,396,158,2024-01-04,Abu Dhabi,Cancelled
+212,445,25,2023-11-02,Dubai,Delivered
+213,425,28,2023-01-12,Abu Dhabi,Delivered
+214,161,193,2023-12-11,Dubai,Delivered
+215,178,113,2024-04-09,Abu Dhabi,Delivered
+216,117,45,2024-05-08,Ras Al Khaimah,Delivered
+217,196,68,2024-01-03,Dubai,Delivered
+218,383,7,2024-02-24,Dubai,Delivered
+219,490,49,2023-06-20,Sharjah,Delivered
+220,327,137,2023-05-14,Dubai,Returned
+221,86,164,2024-03-02,Dubai,Delivered
+222,289,83,2023-01-25,Sharjah,Delivered
+223,81,129,2024-06-13,Fujairah,Returned
+224,152,138,2023-07-09,Fujairah,Cancelled
+225,61,164,2023-05-21,Sharjah,Delivered
+226,61,73,2024-07-08,Ajman,Delivered
+227,354,46,2023-11-11,Dubai,Delivered
+228,28,106,2024-03-19,Dubai,Delivered
+229,442,160,2023-11-15,Sharjah,Delivered
+230,43,32,2024-03-16,Sharjah,Returned
+231,169,6,2023-04-02,Ajman,Delivered
+232,423,176,2023-06-28,Ras Al Khaimah,Returned
+233,86,166,2023-02-25,Fujairah,Returned
+234,177,145,2023-06-04,Abu Dhabi,Cancelled
+235,17,74,2023-04-21,Ras Al Khaimah,Delivered
+236,98,114,2023-05-17,Umm Al Quwain,Cancelled
+237,454,27,2023-08-20,Fujairah,Delivered
+238,494,54,2024-04-12,Dubai,Delivered
+239,198,178,2024-04-25,Umm Al Quwain,Delivered
+240,98,163,2023-03-09,Ras Al Khaimah,Delivered
+241,65,85,2023-09-06,Sharjah,Delivered
+242,330,127,2023-11-19,Ajman,Delivered
+243,341,153,2024-06-01,Fujairah,Delivered
+244,5,156,2024-03-07,Ajman,Delivered
+245,2,111,2024-05-01,Umm Al Quwain,Delivered
+246,22,15,2024-03-04,Fujairah,Delivered
+247,112,132,2023-09-26,Ras Al Khaimah,Returned
+248,57,93,2024-06-20,Dubai,Delivered
+249,66,123,2023-05-28,Abu Dhabi,Delivered
+250,330,73,2023-04-28,Ajman,Delivered
+251,98,155,2024-01-02,Ajman,Delivered
+252,144,154,2023-03-07,Abu Dhabi,Delivered
+253,368,147,2024-01-05,Ajman,Delivered
+254,435,92,2023-06-24,Ajman,Cancelled
+255,125,17,2024-08-10,Fujairah,Delivered
+256,167,43,2024-05-09,Fujairah,Delivered
+257,86,121,2023-04-24,Abu Dhabi,Delivered
+258,76,41,2023-04-21,Umm Al Quwain,Returned
+259,344,170,2024-03-14,Dubai,Delivered
+260,495,178,2023-05-27,Ras Al Khaimah,Delivered
+261,424,168,2023-02-04,Ras Al Khaimah,Returned
+262,294,39,2023-11-05,Umm Al Quwain,Delivered
+263,444,113,2024-06-21,Ajman,Delivered
+264,59,151,2023-01-14,Dubai,Delivered
+265,138,111,2024-01-09,Abu Dhabi,Delivered
+266,99,180,2024-07-10,Umm Al Quwain,Delivered
+267,192,47,2024-03-03,Abu Dhabi,Delivered
+268,243,63,2023-08-21,Fujairah,Delivered
+269,319,110,2024-07-16,Ajman,Delivered
+270,49,69,2024-03-15,Sharjah,Delivered
+271,448,43,2024-05-16,Abu Dhabi,Cancelled
+272,32,176,2023-10-02,Umm Al Quwain,Returned
+273,391,34,2023-03-17,Ajman,Delivered
+274,277,40,2024-03-14,Dubai,Delivered
+275,20,61,2023-10-16,Umm Al Quwain,Delivered
+276,154,178,2024-06-23,Fujairah,Delivered
+277,383,195,2023-09-10,Ras Al Khaimah,Delivered
+278,68,62,2023-05-06,Dubai,Cancelled
+279,366,58,2023-06-26,Abu Dhabi,Delivered
+280,372,161,2023-02-06,Abu Dhabi,Delivered
+281,214,75,2024-02-14,Dubai,Delivered
+282,143,16,2023-05-07,Abu Dhabi,Delivered
+283,376,82,2024-04-27,Umm Al Quwain,Delivered
+284,232,94,2023-06-17,Ajman,Delivered
+285,213,48,2024-08-14,Abu Dhabi,Delivered
+286,79,138,2023-10-21,Fujairah,Returned
+287,214,82,2023-12-09,Ajman,Delivered
+288,116,38,2023-11-06,Umm Al Quwain,Cancelled
+289,92,127,2024-06-11,Sharjah,Returned
+290,270,19,2024-06-23,Abu Dhabi,Delivered
+291,411,164,2024-02-23,Abu Dhabi,Returned
+292,381,187,2024-03-19,Fujairah,Delivered
+293,489,63,2024-07-11,Umm Al Quwain,Cancelled
+294,168,77,2023-08-24,Fujairah,Delivered
+295,58,174,2024-03-14,Ras Al Khaimah,Delivered
+296,284,131,2023-08-02,Umm Al Quwain,Delivered
+297,26,102,2023-03-26,Dubai,Delivered
+298,369,65,2023-03-26,Dubai,Cancelled
+299,447,120,2024-05-03,Dubai,Delivered
+300,66,91,2023-03-06,Fujairah,Delivered
+301,409,8,2023-03-05,Dubai,Delivered
+302,248,179,2023-12-09,Umm Al Quwain,Cancelled
+303,254,73,2023-12-18,Dubai,Delivered
+304,387,134,2023-06-07,Sharjah,Delivered
+305,456,107,2024-08-11,Dubai,Delivered
+306,44,89,2024-05-05,Abu Dhabi,Delivered
+307,97,39,2024-04-07,Ras Al Khaimah,Delivered
+308,42,113,2023-08-13,Fujairah,Delivered
+309,500,188,2023-11-09,Ajman,Delivered
+310,227,28,2024-04-10,Ras Al Khaimah,Delivered
+311,262,97,2023-03-29,Sharjah,Delivered
+312,167,182,2023-10-30,Fujairah,Delivered
+313,436,37,2024-03-10,Umm Al Quwain,Delivered
+314,279,137,2023-05-15,Fujairah,Returned
+315,89,82,2023-02-19,Abu Dhabi,Cancelled
+316,379,56,2024-03-07,Umm Al Quwain,Delivered
+317,178,187,2023-12-06,Ras Al Khaimah,Delivered
+318,427,85,2023-12-13,Ras Al Khaimah,Delivered
+319,403,2,2023-12-13,Dubai,Delivered
+320,197,189,2023-09-02,Umm Al Quwain,Delivered
+321,307,58,2023-04-19,Abu Dhabi,Delivered
+322,267,107,2024-06-16,Dubai,Delivered
+323,268,123,2023-03-31,Dubai,Cancelled
+324,74,188,2023-10-23,Fujairah,Delivered
+325,8,168,2023-04-22,Ras Al Khaimah,Delivered
+326,408,164,2024-08-11,Dubai,Delivered
+327,476,114,2023-06-26,Sharjah,Delivered
+328,297,107,2023-12-09,Sharjah,Delivered
+329,164,37,2023-04-11,Ras Al Khaimah,Delivered
+330,485,79,2024-02-05,Sharjah,Delivered
+331,85,92,2023-01-28,Fujairah,Delivered
+332,72,18,2024-06-20,Abu Dhabi,Cancelled
+333,55,98,2023-02-27,Ajman,Delivered
+334,393,63,2024-05-12,Dubai,Delivered
+335,47,150,2023-10-24,Ajman,Delivered
+336,399,139,2023-05-14,Abu Dhabi,Delivered
+337,432,186,2023-11-27,Abu Dhabi,Delivered
+338,238,185,2023-09-06,Fujairah,Returned
+339,104,4,2024-07-03,Sharjah,Cancelled
+340,210,135,2023-03-16,Sharjah,Cancelled
+341,42,61,2023-06-17,Abu Dhabi,Delivered
+342,316,107,2024-05-17,Fujairah,Returned
+343,468,54,2023-12-21,Fujairah,Delivered
+344,454,88,2023-08-13,Ras Al Khaimah,Delivered
+345,268,68,2024-06-14,Umm Al Quwain,Delivered
+346,386,129,2023-05-26,Dubai,Returned
+347,263,55,2023-08-29,Umm Al Quwain,Delivered
+348,336,3,2023-12-10,Sharjah,Delivered
+349,387,166,2023-02-04,Abu Dhabi,Delivered
+350,365,121,2023-01-01,Ras Al Khaimah,Delivered
+351,259,129,2023-06-02,Ajman,Delivered
+352,283,102,2024-03-04,Sharjah,Cancelled
+353,114,38,2024-05-22,Dubai,Delivered
+354,363,85,2023-05-06,Fujairah,Delivered
+355,40,157,2024-05-05,Abu Dhabi,Delivered
+356,486,133,2024-04-26,Sharjah,Delivered
+357,417,92,2023-12-11,Ajman,Delivered
+358,220,21,2023-08-09,Dubai,Delivered
+359,129,199,2023-01-25,Dubai,Delivered
+360,8,195,2024-06-11,Ras Al Khaimah,Delivered
+361,101,109,2023-07-01,Sharjah,Delivered
+362,416,47,2024-05-13,Ajman,Delivered
+363,380,84,2023-02-11,Dubai,Delivered
+364,176,83,2024-04-25,Abu Dhabi,Delivered
+365,107,35,2024-03-14,Dubai,Cancelled
+366,101,196,2024-02-06,Ajman,Delivered
+367,260,69,2024-06-29,Fujairah,Delivered
+368,478,129,2023-12-11,Fujairah,Delivered
+369,454,196,2023-02-14,Ras Al Khaimah,Delivered
+370,366,140,2023-01-21,Sharjah,Cancelled
+371,246,188,2023-03-11,Ajman,Delivered
+372,275,27,2023-02-17,Ras Al Khaimah,Delivered
+373,32,56,2024-05-05,Umm Al Quwain,Delivered
+374,137,23,2024-07-04,Dubai,Delivered
+375,12,153,2023-10-14,Umm Al Quwain,Returned
+376,395,21,2023-01-10,Dubai,Delivered
+377,302,61,2024-06-25,Fujairah,Delivered
+378,375,63,2023-10-01,Ras Al Khaimah,Delivered
+379,16,122,2024-08-22,Fujairah,Delivered
+380,129,52,2024-01-16,Abu Dhabi,Returned
+381,63,88,2023-11-25,Umm Al Quwain,Delivered
+382,109,153,2024-04-23,Umm Al Quwain,Delivered
+383,375,55,2023-01-15,Fujairah,Delivered
+384,21,46,2024-05-30,Abu Dhabi,Delivered
+385,158,32,2023-07-10,Dubai,Delivered
+386,269,55,2023-06-17,Ras Al Khaimah,Delivered
+387,162,96,2024-06-04,Abu Dhabi,Delivered
+388,260,133,2023-05-17,Ras Al Khaimah,Delivered
+389,412,36,2023-06-03,Umm Al Quwain,Delivered
+390,102,110,2024-01-23,Ras Al Khaimah,Cancelled
+391,223,177,2023-07-28,Umm Al Quwain,Delivered
+392,59,106,2023-09-29,Abu Dhabi,Delivered
+393,247,58,2023-05-23,Umm Al Quwain,Delivered
+394,128,39,2023-03-10,Sharjah,Delivered
+395,283,80,2023-09-04,Umm Al Quwain,Delivered
+396,325,97,2023-09-18,Fujairah,Returned
+397,25,113,2023-03-20,Abu Dhabi,Delivered
+398,131,61,2024-06-08,Dubai,Delivered
+399,353,137,2023-11-26,Ras Al Khaimah,Delivered
+400,196,6,2023-07-08,Ajman,Delivered
+401,281,109,2023-04-05,Abu Dhabi,Delivered
+402,404,35,2023-01-08,Fujairah,Delivered
+403,418,39,2023-03-08,Umm Al Quwain,Delivered
+404,154,150,2024-05-10,Ras Al Khaimah,Delivered
+405,382,169,2023-07-10,Sharjah,Delivered
+406,133,118,2024-01-01,Dubai,Delivered
+407,227,5,2024-06-04,Sharjah,Delivered
+408,189,170,2023-04-27,Ajman,Delivered
+409,476,87,2023-09-24,Abu Dhabi,Delivered
+410,477,76,2024-04-29,Ras Al Khaimah,Delivered
+411,265,195,2024-05-23,Abu Dhabi,Delivered
+412,372,158,2023-10-25,Fujairah,Delivered
+413,486,57,2023-06-13,Abu Dhabi,Delivered
+414,434,127,2024-01-11,Dubai,Delivered
+415,134,29,2023-09-25,Ajman,Delivered
+416,211,165,2024-07-02,Sharjah,Delivered
+417,60,87,2023-03-15,Ajman,Delivered
+418,428,141,2024-05-22,Ras Al Khaimah,Returned
+419,377,160,2023-03-14,Abu Dhabi,Delivered
+420,395,46,2023-11-04,Ras Al Khaimah,Delivered
+421,450,116,2023-07-18,Sharjah,Delivered
+422,431,112,2023-05-10,Ras Al Khaimah,Delivered
+423,364,151,2024-07-25,Fujairah,Delivered
+424,364,45,2024-05-01,Ajman,Delivered
+425,457,145,2023-05-31,Sharjah,Delivered
+426,213,104,2023-07-25,Sharjah,Delivered
+427,216,85,2023-06-28,Umm Al Quwain,Delivered
+428,226,194,2023-07-16,Sharjah,Delivered
+429,470,134,2023-03-30,Umm Al Quwain,Delivered
+430,131,108,2024-03-09,Dubai,Delivered
+431,76,18,2023-07-02,Umm Al Quwain,Delivered
+432,476,94,2023-07-28,Ajman,Delivered
+433,286,150,2024-05-07,Ras Al Khaimah,Delivered
+434,474,33,2023-05-10,Umm Al Quwain,Delivered
+435,496,158,2023-01-13,Sharjah,Delivered
+436,277,126,2023-04-16,Ajman,Delivered
+437,156,160,2024-01-10,Umm Al Quwain,Returned
+438,248,170,2024-08-04,Umm Al Quwain,Cancelled
+439,218,122,2023-04-09,Sharjah,Delivered
+440,190,138,2024-08-16,Fujairah,Delivered
+441,417,115,2024-08-09,Fujairah,Delivered
+442,469,164,2023-07-11,Umm Al Quwain,Delivered
+443,163,162,2023-11-21,Fujairah,Delivered
+444,180,28,2024-04-11,Abu Dhabi,Delivered
+445,34,11,2024-01-02,Sharjah,Cancelled
+446,41,167,2023-11-14,Abu Dhabi,Delivered
+447,307,47,2023-05-24,Ajman,Delivered
+448,431,127,2024-01-19,Abu Dhabi,Delivered
+449,338,147,2023-08-04,Ajman,Returned
+450,314,118,2023-12-27,Umm Al Quwain,Delivered
+451,75,143,2023-11-20,Ajman,Delivered
+452,441,126,2023-01-15,Ajman,Delivered
+453,279,156,2023-08-05,Ras Al Khaimah,Returned
+454,176,152,2024-05-06,Abu Dhabi,Delivered
+455,384,72,2024-06-30,Ras Al Khaimah,Returned
+456,150,107,2023-07-02,Umm Al Quwain,Delivered
+457,273,137,2023-09-27,Sharjah,Delivered
+458,325,175,2024-04-11,Abu Dhabi,Delivered
+459,108,33,2024-06-02,Sharjah,Delivered
+460,139,190,2024-06-25,Sharjah,Delivered
+461,350,19,2024-04-11,Ajman,Returned
+462,271,195,2023-11-01,Abu Dhabi,Delivered
+463,347,74,2023-05-24,Sharjah,Delivered
+464,419,168,2023-04-21,Fujairah,Delivered
+465,289,175,2023-08-20,Sharjah,Delivered
+466,212,193,2024-08-06,Fujairah,Delivered
+467,381,157,2024-08-14,Abu Dhabi,Delivered
+468,272,178,2024-05-14,Umm Al Quwain,Delivered
+469,418,98,2024-08-17,Ras Al Khaimah,Delivered
+470,66,141,2024-07-07,Abu Dhabi,Cancelled
+471,483,129,2023-09-30,Ras Al Khaimah,Delivered
+472,424,162,2023-06-22,Ras Al Khaimah,Returned
+473,248,93,2023-01-07,Abu Dhabi,Delivered
+474,156,176,2023-06-04,Sharjah,Delivered
+475,47,48,2024-06-05,Dubai,Delivered
+476,423,177,2024-06-29,Sharjah,Delivered
+477,454,64,2024-07-01,Sharjah,Returned
+478,201,61,2024-06-01,Umm Al Quwain,Delivered
+479,148,157,2023-08-03,Ajman,Delivered
+480,124,39,2023-05-14,Ajman,Returned
+481,1,128,2023-10-12,Sharjah,Delivered
+482,456,88,2023-05-06,Fujairah,Delivered
+483,247,26,2024-03-14,Umm Al Quwain,Delivered
+484,343,17,2023-06-01,Ras Al Khaimah,Returned
+485,128,71,2023-11-27,Ajman,Delivered
+486,191,13,2024-06-21,Sharjah,Delivered
+487,67,69,2024-01-18,Umm Al Quwain,Delivered
+488,4,26,2023-04-25,Dubai,Cancelled
+489,442,49,2024-04-26,Fujairah,Delivered
+490,409,195,2023-10-11,Abu Dhabi,Delivered
+491,303,7,2023-03-16,Sharjah,Delivered
+492,294,58,2023-06-15,Umm Al Quwain,Cancelled
+493,143,49,2023-07-08,Sharjah,Returned
+494,191,103,2023-03-19,Ras Al Khaimah,Cancelled
+495,21,53,2023-01-21,Fujairah,Delivered
+496,227,193,2024-07-19,Ajman,Delivered
+497,313,62,2023-07-03,Ajman,Delivered
+498,117,17,2023-08-10,Ajman,Returned
+499,437,171,2023-11-24,Abu Dhabi,Delivered
+500,302,25,2023-06-28,Umm Al Quwain,Delivered
+501,500,131,2023-04-22,Fujairah,Returned
+502,142,29,2023-02-28,Fujairah,Delivered
+503,484,117,2023-11-23,Ajman,Delivered
+504,460,160,2023-07-10,Ajman,Delivered
+505,401,26,2023-07-19,Ras Al Khaimah,Delivered
+506,39,124,2023-11-08,Dubai,Delivered
+507,393,144,2023-02-04,Dubai,Delivered
+508,355,25,2024-01-14,Sharjah,Delivered
+509,252,54,2024-01-22,Sharjah,Delivered
+510,333,156,2023-08-25,Fujairah,Delivered
+511,207,73,2024-06-02,Fujairah,Delivered
+512,210,120,2023-10-10,Abu Dhabi,Delivered
+513,115,56,2023-01-01,Abu Dhabi,Delivered
+514,225,65,2024-04-08,Dubai,Delivered
+515,134,93,2023-08-18,Sharjah,Delivered
+516,251,86,2023-06-21,Dubai,Delivered
+517,219,80,2023-03-28,Dubai,Returned
+518,407,169,2024-07-06,Sharjah,Delivered
+519,443,108,2023-05-03,Umm Al Quwain,Returned
+520,91,179,2023-10-25,Abu Dhabi,Delivered
+521,354,118,2024-07-28,Ras Al Khaimah,Delivered
+522,376,199,2024-04-28,Ras Al Khaimah,Delivered
+523,46,157,2023-06-14,Ras Al Khaimah,Delivered
+524,38,83,2024-01-18,Sharjah,Delivered
+525,142,147,2023-07-28,Ajman,Delivered
+526,100,194,2024-03-07,Ajman,Cancelled
+527,328,169,2024-01-24,Ajman,Delivered
+528,190,173,2024-07-13,Fujairah,Delivered
+529,35,15,2023-08-12,Abu Dhabi,Returned
+530,147,131,2023-01-03,Abu Dhabi,Delivered
+531,30,139,2024-01-07,Umm Al Quwain,Returned
+532,334,181,2024-03-21,Umm Al Quwain,Delivered
+533,84,174,2023-04-26,Fujairah,Cancelled
+534,369,30,2023-09-27,Dubai,Delivered
+535,281,57,2024-03-22,Umm Al Quwain,Delivered
+536,424,146,2024-01-03,Ras Al Khaimah,Delivered
+537,344,179,2023-09-10,Ajman,Delivered
+538,270,128,2023-11-13,Ras Al Khaimah,Delivered
+539,154,48,2024-02-19,Ajman,Delivered
+540,102,194,2023-04-05,Ras Al Khaimah,Delivered
+541,215,136,2023-01-24,Dubai,Delivered
+542,150,22,2023-02-19,Ras Al Khaimah,Returned
+543,432,6,2024-05-16,Ras Al Khaimah,Delivered
+544,83,185,2024-05-12,Sharjah,Delivered
+545,110,104,2023-12-01,Ras Al Khaimah,Delivered
+546,435,36,2023-03-20,Sharjah,Delivered
+547,387,79,2024-08-04,Abu Dhabi,Delivered
+548,426,116,2023-01-27,Fujairah,Returned
+549,275,57,2023-09-28,Ras Al Khaimah,Cancelled
+550,201,49,2024-07-15,Abu Dhabi,Delivered
+551,284,173,2023-09-04,Umm Al Quwain,Returned
+552,468,82,2024-08-13,Umm Al Quwain,Delivered
+553,173,66,2024-01-22,Sharjah,Delivered
+554,327,77,2024-07-12,Ras Al Khaimah,Delivered
+555,206,45,2023-12-27,Ras Al Khaimah,Delivered
+556,63,79,2024-05-02,Dubai,Delivered
+557,73,20,2023-12-18,Abu Dhabi,Delivered
+558,251,192,2023-09-13,Ajman,Delivered
+559,124,123,2023-08-10,Ajman,Delivered
+560,375,67,2023-01-01,Dubai,Delivered
+561,121,83,2024-06-29,Sharjah,Cancelled
+562,275,3,2024-03-21,Ajman,Delivered
+563,431,182,2023-03-20,Ajman,Delivered
+564,500,64,2023-08-24,Umm Al Quwain,Delivered
+565,398,40,2023-11-30,Umm Al Quwain,Delivered
+566,120,59,2023-12-15,Fujairah,Delivered
+567,422,183,2023-04-08,Abu Dhabi,Delivered
+568,437,62,2023-03-23,Sharjah,Delivered
+569,317,132,2024-05-16,Ras Al Khaimah,Delivered
+570,164,60,2024-04-21,Abu Dhabi,Delivered
+571,424,116,2024-07-03,Sharjah,Delivered
+572,465,75,2023-01-14,Ajman,Delivered
+573,286,122,2024-01-27,Fujairah,Delivered
+574,265,107,2023-12-13,Abu Dhabi,Returned
+575,320,96,2023-11-06,Ajman,Delivered
+576,161,91,2024-01-21,Sharjah,Returned
+577,376,158,2023-07-28,Abu Dhabi,Delivered
+578,308,130,2023-12-23,Ras Al Khaimah,Cancelled
+579,89,62,2024-07-21,Abu Dhabi,Delivered
+580,142,49,2023-04-04,Ajman,Delivered
+581,203,137,2023-04-03,Abu Dhabi,Cancelled
+582,309,92,2023-12-06,Ras Al Khaimah,Delivered
+583,227,159,2024-08-19,Fujairah,Delivered
+584,489,124,2024-03-20,Fujairah,Delivered
+585,443,61,2023-01-22,Ajman,Delivered
+586,334,48,2023-10-18,Sharjah,Cancelled
+587,222,153,2024-04-29,Ajman,Delivered
+588,41,164,2023-11-02,Fujairah,Delivered
+589,196,136,2023-05-08,Dubai,Delivered
+590,68,58,2023-09-30,Dubai,Delivered
+591,476,101,2024-03-17,Abu Dhabi,Delivered
+592,264,112,2024-05-17,Ras Al Khaimah,Delivered
+593,2,173,2023-05-10,Umm Al Quwain,Delivered
+594,361,62,2023-05-12,Umm Al Quwain,Delivered
+595,125,39,2024-08-19,Umm Al Quwain,Cancelled
+596,110,58,2024-04-26,Abu Dhabi,Delivered
+597,86,99,2024-01-25,Dubai,Delivered
+598,425,192,2024-08-15,Fujairah,Delivered
+599,120,44,2023-11-21,Abu Dhabi,Delivered
+600,127,29,2023-03-10,Umm Al Quwain,Delivered
+601,255,59,2024-03-23,Umm Al Quwain,Cancelled
+602,183,71,2024-06-11,Ajman,Delivered
+603,16,92,2023-06-14,Umm Al Quwain,Returned
+604,477,9,2024-05-02,Ras Al Khaimah,Delivered
+605,62,127,2024-03-01,Umm Al Quwain,Delivered
+606,369,134,2023-09-22,Ajman,Delivered
+607,432,157,2023-12-08,Umm Al Quwain,Delivered
+608,158,186,2023-10-05,Ras Al Khaimah,Delivered
+609,268,145,2024-03-14,Fujairah,Returned
+610,35,144,2023-06-06,Abu Dhabi,Delivered
+611,267,131,2024-02-26,Ras Al Khaimah,Cancelled
+612,64,21,2023-09-08,Ajman,Returned
+613,494,64,2024-06-13,Abu Dhabi,Delivered
+614,50,90,2023-11-23,Abu Dhabi,Delivered
+615,469,36,2023-04-07,Ajman,Delivered
+616,255,62,2024-05-27,Dubai,Cancelled
+617,149,170,2023-08-04,Umm Al Quwain,Delivered
+618,325,76,2023-05-12,Ras Al Khaimah,Delivered
+619,304,170,2023-09-17,Ajman,Delivered
+620,276,189,2023-05-05,Fujairah,Delivered
+621,357,13,2023-03-23,Sharjah,Delivered
+622,451,11,2023-10-10,Ajman,Delivered
+623,172,54,2023-02-28,Umm Al Quwain,Delivered
+624,417,16,2024-06-27,Umm Al Quwain,Delivered
+625,201,8,2023-06-10,Abu Dhabi,Delivered
+626,445,104,2023-10-11,Abu Dhabi,Delivered
+627,393,59,2023-04-16,Ajman,Delivered
+628,324,57,2023-04-15,Sharjah,Delivered
+629,35,40,2024-03-14,Ajman,Delivered
+630,465,187,2023-08-16,Sharjah,Delivered
+631,482,130,2024-08-04,Sharjah,Delivered
+632,216,94,2023-11-14,Umm Al Quwain,Delivered
+633,480,138,2024-04-08,Umm Al Quwain,Delivered
+634,65,44,2024-08-21,Umm Al Quwain,Delivered
+635,8,139,2024-04-16,Fujairah,Delivered
+636,301,80,2023-02-25,Umm Al Quwain,Returned
+637,343,81,2023-01-13,Ras Al Khaimah,Returned
+638,431,2,2024-03-15,Abu Dhabi,Returned
+639,424,178,2023-01-18,Abu Dhabi,Delivered
+640,332,140,2023-04-23,Sharjah,Delivered
+641,438,115,2023-08-17,Abu Dhabi,Delivered
+642,76,90,2023-06-20,Dubai,Delivered
+643,174,23,2023-10-22,Sharjah,Delivered
+644,47,146,2023-07-08,Abu Dhabi,Delivered
+645,15,62,2024-03-01,Dubai,Returned
+646,361,113,2023-03-20,Fujairah,Delivered
+647,147,128,2023-07-01,Abu Dhabi,Delivered
+648,26,62,2024-05-13,Dubai,Delivered
+649,308,38,2023-03-12,Ajman,Delivered
+650,93,195,2023-09-05,Ras Al Khaimah,Delivered
+651,406,166,2023-05-26,Ajman,Returned
+652,232,195,2023-10-23,Dubai,Delivered
+653,21,61,2024-08-04,Sharjah,Returned
+654,307,129,2024-04-14,Umm Al Quwain,Delivered
+655,38,173,2024-05-20,Umm Al Quwain,Returned
+656,276,156,2023-07-12,Umm Al Quwain,Delivered
+657,157,149,2023-03-09,Sharjah,Delivered
+658,179,122,2024-05-08,Abu Dhabi,Delivered
+659,132,110,2023-02-21,Umm Al Quwain,Delivered
+660,311,13,2023-12-29,Ajman,Cancelled
+661,455,155,2024-04-18,Sharjah,Delivered
+662,348,100,2024-06-04,Sharjah,Delivered
+663,28,135,2024-03-06,Umm Al Quwain,Cancelled
+664,260,22,2023-10-25,Ajman,Delivered
+665,406,74,2024-03-10,Fujairah,Delivered
+666,76,181,2023-07-17,Sharjah,Delivered
+667,429,132,2023-05-08,Umm Al Quwain,Delivered
+668,67,23,2024-06-15,Ras Al Khaimah,Returned
+669,342,119,2024-02-15,Dubai,Delivered
+670,492,70,2023-03-06,Abu Dhabi,Delivered
+671,194,84,2023-08-29,Sharjah,Delivered
+672,472,101,2024-01-04,Ras Al Khaimah,Returned
+673,162,84,2024-06-19,Ras Al Khaimah,Delivered
+674,347,161,2024-01-19,Sharjah,Returned
+675,439,28,2024-03-06,Fujairah,Delivered
+676,361,136,2023-03-24,Dubai,Delivered
+677,257,1,2024-07-27,Abu Dhabi,Cancelled
+678,72,165,2023-10-13,Sharjah,Delivered
+679,87,63,2024-06-17,Abu Dhabi,Delivered
+680,422,22,2024-04-03,Ajman,Delivered
+681,262,70,2023-07-31,Ras Al Khaimah,Delivered
+682,214,125,2023-05-06,Ras Al Khaimah,Delivered
+683,153,149,2024-02-17,Sharjah,Cancelled
+684,210,96,2024-05-13,Sharjah,Returned
+685,401,163,2024-02-29,Ajman,Delivered
+686,61,79,2024-07-07,Fujairah,Delivered
+687,268,5,2024-06-26,Sharjah,Delivered
+688,262,60,2023-06-07,Ras Al Khaimah,Delivered
+689,218,120,2023-04-22,Abu Dhabi,Delivered
+690,283,46,2024-02-06,Dubai,Returned
+691,136,178,2023-05-02,Umm Al Quwain,Delivered
+692,467,176,2023-09-30,Abu Dhabi,Returned
+693,380,134,2023-10-21,Fujairah,Delivered
+694,362,56,2024-02-02,Dubai,Delivered
+695,449,110,2024-04-15,Abu Dhabi,Delivered
+696,441,187,2023-07-26,Abu Dhabi,Delivered
+697,93,157,2023-04-20,Ajman,Delivered
+698,109,199,2024-03-15,Umm Al Quwain,Cancelled
+699,241,104,2023-10-05,Fujairah,Delivered
+700,355,77,2024-07-21,Ras Al Khaimah,Cancelled
+701,424,146,2024-07-22,Ajman,Delivered
+702,142,2,2024-04-26,Dubai,Cancelled
+703,291,8,2023-04-24,Umm Al Quwain,Delivered
+704,432,75,2024-04-21,Ras Al Khaimah,Cancelled
+705,237,182,2023-11-17,Ajman,Delivered
+706,340,125,2023-06-28,Umm Al Quwain,Delivered
+707,312,38,2023-08-07,Fujairah,Cancelled
+708,177,176,2024-06-11,Sharjah,Delivered
+709,141,27,2024-05-06,Sharjah,Delivered
+710,189,20,2023-03-02,Dubai,Delivered
+711,486,140,2023-02-23,Sharjah,Cancelled
+712,49,43,2024-06-21,Ajman,Delivered
+713,302,189,2023-03-06,Dubai,Delivered
+714,369,31,2024-08-08,Ras Al Khaimah,Delivered
+715,190,91,2023-06-20,Fujairah,Delivered
+716,136,61,2023-09-30,Dubai,Returned
+717,43,195,2024-06-18,Ras Al Khaimah,Delivered
+718,404,109,2024-01-26,Dubai,Delivered
+719,380,91,2023-11-23,Abu Dhabi,Cancelled
+720,353,163,2023-04-18,Abu Dhabi,Delivered
+721,90,95,2023-06-11,Dubai,Delivered
+722,295,143,2024-03-27,Umm Al Quwain,Delivered
+723,341,144,2023-07-25,Sharjah,Delivered
+724,245,13,2024-08-12,Abu Dhabi,Delivered
+725,433,113,2023-01-16,Umm Al Quwain,Delivered
+726,192,35,2023-11-23,Umm Al Quwain,Delivered
+727,318,187,2023-01-02,Fujairah,Delivered
+728,106,149,2023-01-10,Ras Al Khaimah,Delivered
+729,363,182,2024-03-09,Ajman,Delivered
+730,310,158,2023-05-05,Abu Dhabi,Delivered
+731,382,48,2023-03-22,Dubai,Delivered
+732,233,35,2024-04-29,Sharjah,Delivered
+733,265,86,2023-05-30,Ajman,Delivered
+734,344,166,2023-12-06,Ras Al Khaimah,Delivered
+735,37,159,2023-05-09,Umm Al Quwain,Delivered
+736,305,152,2024-03-13,Ras Al Khaimah,Delivered
+737,41,114,2024-05-15,Abu Dhabi,Delivered
+738,17,177,2023-02-27,Ras Al Khaimah,Delivered
+739,344,100,2023-07-17,Ras Al Khaimah,Delivered
+740,277,160,2023-07-30,Sharjah,Returned
+741,307,183,2023-02-14,Umm Al Quwain,Returned
+742,59,186,2023-04-07,Sharjah,Delivered
+743,423,99,2023-10-06,Sharjah,Delivered
+744,183,3,2024-06-18,Dubai,Delivered
+745,41,197,2024-02-14,Ras Al Khaimah,Delivered
+746,39,85,2024-04-05,Ras Al Khaimah,Delivered
+747,397,125,2024-01-26,Ras Al Khaimah,Delivered
+748,192,138,2023-02-13,Fujairah,Delivered
+749,267,83,2023-01-27,Sharjah,Delivered
+750,494,25,2023-04-07,Ajman,Delivered
+751,147,68,2024-07-01,Abu Dhabi,Delivered
+752,395,61,2024-07-20,Umm Al Quwain,Delivered
+753,333,29,2023-08-07,Ajman,Delivered
+754,127,127,2023-07-04,Umm Al Quwain,Delivered
+755,46,19,2023-03-10,Dubai,Delivered
+756,45,171,2023-05-10,Dubai,Delivered
+757,1,194,2024-07-20,Umm Al Quwain,Delivered
+758,168,74,2024-08-21,Ras Al Khaimah,Delivered
+759,108,61,2023-11-30,Ajman,Delivered
+760,19,171,2023-06-03,Ras Al Khaimah,Returned
+761,332,153,2024-06-30,Fujairah,Returned
+762,72,20,2023-03-20,Dubai,Delivered
+763,456,48,2024-08-01,Dubai,Delivered
+764,445,87,2024-02-17,Ajman,Delivered
+765,109,152,2024-06-29,Dubai,Returned
+766,268,139,2023-06-18,Fujairah,Delivered
+767,445,110,2024-08-05,Fujairah,Cancelled
+768,240,183,2024-05-29,Fujairah,Delivered
+769,417,28,2023-11-10,Abu Dhabi,Delivered
+770,301,197,2023-02-01,Fujairah,Cancelled
+771,90,191,2023-10-14,Fujairah,Delivered
+772,103,59,2024-08-16,Abu Dhabi,Delivered
+773,476,133,2023-02-12,Ras Al Khaimah,Delivered
+774,250,51,2023-01-01,Sharjah,Delivered
+775,453,149,2024-07-26,Dubai,Delivered
+776,8,12,2023-09-27,Fujairah,Delivered
+777,153,50,2023-06-29,Dubai,Delivered
+778,347,132,2024-06-01,Ajman,Delivered
+779,174,113,2023-04-13,Dubai,Cancelled
+780,343,170,2023-01-10,Umm Al Quwain,Delivered
+781,158,166,2024-08-05,Ras Al Khaimah,Delivered
+782,493,153,2023-03-31,Abu Dhabi,Delivered
+783,431,14,2023-08-14,Dubai,Delivered
+784,215,32,2023-05-06,Dubai,Delivered
+785,177,139,2023-07-28,Dubai,Cancelled
+786,175,189,2023-04-07,Sharjah,Delivered
+787,340,146,2023-03-15,Sharjah,Delivered
+788,338,155,2023-07-10,Ajman,Delivered
+789,146,55,2023-02-25,Abu Dhabi,Delivered
+790,450,182,2024-07-06,Dubai,Returned
+791,324,120,2023-02-01,Dubai,Delivered
+792,478,75,2024-06-10,Dubai,Delivered
+793,161,21,2024-07-27,Dubai,Delivered
+794,127,172,2023-10-11,Sharjah,Delivered
+795,420,133,2024-05-08,Ras Al Khaimah,Delivered
+796,82,87,2023-07-06,Ras Al Khaimah,Delivered
+797,485,169,2024-05-12,Ajman,Delivered
+798,147,59,2024-03-17,Umm Al Quwain,Delivered
+799,239,89,2023-05-10,Fujairah,Delivered
+800,412,182,2023-10-19,Abu Dhabi,Cancelled
+801,424,150,2023-04-24,Ras Al Khaimah,Cancelled
+802,84,83,2023-07-18,Umm Al Quwain,Delivered
+803,113,65,2023-01-13,Dubai,Delivered
+804,225,64,2023-09-28,Ras Al Khaimah,Delivered
+805,332,71,2023-08-03,Ajman,Delivered
+806,378,4,2024-03-19,Fujairah,Delivered
+807,243,193,2024-05-26,Ras Al Khaimah,Delivered
+808,143,143,2024-03-22,Ajman,Returned
+809,41,104,2023-03-15,Sharjah,Cancelled
+810,423,150,2024-06-20,Fujairah,Delivered
+811,258,175,2023-04-11,Ajman,Delivered
+812,447,93,2023-06-25,Umm Al Quwain,Delivered
+813,285,174,2024-03-02,Ras Al Khaimah,Delivered
+814,105,142,2023-04-27,Sharjah,Delivered
+815,202,178,2023-06-15,Umm Al Quwain,Delivered
+816,450,148,2023-02-10,Ajman,Returned
+817,307,178,2024-03-04,Ajman,Delivered
+818,331,112,2023-12-10,Umm Al Quwain,Delivered
+819,461,161,2024-02-28,Ras Al Khaimah,Delivered
+820,266,119,2024-01-01,Fujairah,Delivered
+821,398,59,2023-04-30,Sharjah,Delivered
+822,210,43,2023-08-17,Dubai,Returned
+823,51,12,2023-05-10,Abu Dhabi,Delivered
+824,118,40,2023-12-18,Fujairah,Delivered
+825,201,118,2023-11-14,Sharjah,Delivered
+826,377,20,2023-12-03,Umm Al Quwain,Delivered
+827,39,166,2023-09-30,Ajman,Returned
+828,28,131,2023-04-27,Umm Al Quwain,Delivered
+829,259,156,2024-01-03,Sharjah,Returned
+830,84,184,2023-04-04,Umm Al Quwain,Delivered
+831,454,90,2023-06-17,Umm Al Quwain,Delivered
+832,155,94,2023-12-07,Abu Dhabi,Delivered
+833,117,13,2023-06-01,Ras Al Khaimah,Delivered
+834,2,66,2024-08-08,Abu Dhabi,Delivered
+835,93,37,2023-10-01,Dubai,Returned
+836,166,177,2024-07-07,Dubai,Delivered
+837,387,66,2024-05-10,Abu Dhabi,Delivered
+838,400,36,2023-04-11,Fujairah,Delivered
+839,350,182,2024-07-10,Fujairah,Delivered
+840,296,26,2023-03-23,Umm Al Quwain,Delivered
+841,258,75,2024-06-12,Umm Al Quwain,Delivered
+842,81,200,2023-03-14,Ajman,Delivered
+843,425,108,2023-01-14,Dubai,Delivered
+844,268,168,2024-03-08,Ajman,Delivered
+845,419,43,2023-06-06,Dubai,Delivered
+846,235,150,2023-05-12,Abu Dhabi,Delivered
+847,321,148,2023-12-04,Fujairah,Delivered
+848,311,8,2024-02-08,Umm Al Quwain,Cancelled
+849,301,29,2024-01-11,Fujairah,Delivered
+850,463,40,2024-07-12,Abu Dhabi,Delivered
+851,474,158,2023-04-17,Ajman,Delivered
+852,357,128,2023-09-22,Ajman,Delivered
+853,213,84,2023-07-24,Sharjah,Returned
+854,62,116,2023-03-20,Umm Al Quwain,Delivered
+855,49,183,2023-06-04,Umm Al Quwain,Cancelled
+856,127,144,2023-09-04,Umm Al Quwain,Returned
+857,223,174,2024-06-14,Dubai,Delivered
+858,409,62,2024-06-21,Ajman,Delivered
+859,279,7,2023-06-03,Abu Dhabi,Delivered
+860,408,45,2023-06-03,Ajman,Delivered
+861,294,187,2023-04-02,Fujairah,Delivered
+862,284,184,2024-03-08,Dubai,Delivered
+863,277,176,2023-12-04,Umm Al Quwain,Delivered
+864,438,155,2024-04-24,Ras Al Khaimah,Delivered
+865,107,181,2023-05-11,Sharjah,Delivered
+866,146,88,2024-03-25,Dubai,Returned
+867,420,73,2023-09-30,Fujairah,Delivered
+868,99,163,2024-08-10,Umm Al Quwain,Returned
+869,429,179,2023-06-26,Fujairah,Delivered
+870,375,37,2023-02-18,Fujairah,Delivered
+871,73,119,2024-07-20,Umm Al Quwain,Delivered
+872,437,57,2023-12-21,Fujairah,Delivered
+873,486,8,2023-11-04,Abu Dhabi,Delivered
+874,122,95,2023-02-15,Sharjah,Delivered
+875,30,117,2023-10-29,Ras Al Khaimah,Returned
+876,188,110,2024-02-12,Fujairah,Delivered
+877,364,20,2023-07-08,Fujairah,Delivered
+878,354,124,2023-05-09,Ajman,Returned
+879,288,53,2024-07-14,Sharjah,Delivered
+880,451,119,2024-06-20,Dubai,Delivered
+881,195,12,2023-09-23,Sharjah,Delivered
+882,156,177,2023-04-28,Sharjah,Returned
+883,172,17,2024-04-08,Umm Al Quwain,Delivered
+884,335,64,2023-05-24,Umm Al Quwain,Delivered
+885,41,42,2024-03-17,Umm Al Quwain,Delivered
+886,63,94,2023-07-19,Ras Al Khaimah,Returned
+887,23,157,2023-06-06,Sharjah,Delivered
+888,360,147,2024-05-01,Ras Al Khaimah,Cancelled
+889,75,11,2023-05-14,Fujairah,Delivered
+890,48,98,2023-05-28,Umm Al Quwain,Returned
+891,160,178,2023-12-02,Fujairah,Delivered
+892,313,71,2023-03-12,Umm Al Quwain,Delivered
+893,118,108,2023-08-21,Abu Dhabi,Returned
+894,100,58,2023-11-30,Ras Al Khaimah,Delivered
+895,380,34,2023-03-31,Ras Al Khaimah,Delivered
+896,417,20,2023-11-30,Dubai,Delivered
+897,408,50,2023-07-18,Ajman,Delivered
+898,167,102,2023-06-10,Sharjah,Delivered
+899,290,138,2024-06-21,Dubai,Delivered
+900,440,160,2023-05-01,Ras Al Khaimah,Delivered
+901,156,52,2023-10-28,Dubai,Delivered
+902,421,15,2024-07-28,Abu Dhabi,Delivered
+903,7,84,2024-03-11,Ajman,Delivered
+904,196,131,2023-03-09,Ras Al Khaimah,Delivered
+905,421,37,2024-04-03,Ras Al Khaimah,Delivered
+906,56,126,2024-05-28,Sharjah,Delivered
+907,321,40,2024-02-02,Umm Al Quwain,Cancelled
+908,193,72,2023-10-13,Ajman,Delivered
+909,47,40,2024-07-14,Abu Dhabi,Returned
+910,148,56,2023-05-20,Fujairah,Returned
+911,275,151,2024-07-09,Dubai,Returned
+912,157,104,2024-08-12,Sharjah,Delivered
+913,202,139,2023-10-09,Ras Al Khaimah,Returned
+914,444,110,2024-07-31,Fujairah,Returned
+915,402,192,2024-04-01,Abu Dhabi,Delivered
+916,476,136,2023-03-28,Ajman,Delivered
+917,419,93,2023-03-20,Dubai,Delivered
+918,427,94,2023-07-24,Sharjah,Delivered
+919,495,56,2023-12-03,Ras Al Khaimah,Delivered
+920,479,60,2023-09-11,Ras Al Khaimah,Delivered
+921,475,138,2023-10-31,Fujairah,Delivered
+922,126,39,2024-01-15,Fujairah,Delivered
+923,395,28,2023-05-10,Dubai,Delivered
+924,305,49,2024-08-18,Ajman,Delivered
+925,369,164,2023-10-03,Abu Dhabi,Cancelled
+926,294,125,2024-07-11,Umm Al Quwain,Delivered
+927,64,13,2023-07-02,Ajman,Delivered
+928,325,36,2023-09-25,Ajman,Delivered
+929,392,101,2023-11-18,Ajman,Delivered
+930,418,26,2024-05-26,Umm Al Quwain,Delivered
+931,176,86,2023-03-19,Dubai,Cancelled
+932,116,4,2023-12-05,Umm Al Quwain,Delivered
+933,440,82,2024-07-09,Dubai,Cancelled
+934,204,192,2024-05-23,Umm Al Quwain,Delivered
+935,486,166,2023-08-26,Abu Dhabi,Delivered
+936,321,127,2023-05-14,Ajman,Delivered
+937,31,88,2023-07-11,Dubai,Returned
+938,388,127,2023-12-22,Umm Al Quwain,Delivered
+939,113,120,2023-10-05,Abu Dhabi,Delivered
+940,365,22,2023-01-18,Umm Al Quwain,Returned
+941,434,130,2024-06-07,Ras Al Khaimah,Delivered
+942,325,31,2023-06-29,Abu Dhabi,Delivered
+943,414,119,2023-05-03,Ajman,Returned
+944,376,11,2023-09-03,Sharjah,Delivered
+945,344,46,2024-01-08,Ajman,Delivered
+946,443,96,2023-02-20,Sharjah,Delivered
+947,67,190,2023-03-12,Abu Dhabi,Delivered
+948,75,197,2024-04-24,Ras Al Khaimah,Delivered
+949,45,192,2024-07-13,Ras Al Khaimah,Delivered
+950,260,10,2023-01-19,Dubai,Delivered
+951,154,168,2023-03-25,Ras Al Khaimah,Delivered
+952,155,128,2023-06-04,Fujairah,Returned
+953,430,152,2024-07-18,Abu Dhabi,Cancelled
+954,363,99,2023-12-23,Dubai,Delivered
+955,448,172,2024-03-18,Ras Al Khaimah,Delivered
+956,475,112,2023-03-10,Abu Dhabi,Cancelled
+957,234,60,2024-06-06,Ajman,Delivered
+958,51,190,2023-05-23,Ras Al Khaimah,Delivered
+959,306,87,2023-07-11,Umm Al Quwain,Cancelled
+960,262,145,2024-01-22,Sharjah,Returned
+961,315,65,2024-01-13,Abu Dhabi,Delivered
+962,125,57,2024-08-03,Dubai,Delivered
+963,399,183,2024-06-18,Ajman,Delivered
+964,245,106,2023-10-20,Fujairah,Delivered
+965,30,181,2023-01-09,Ajman,Delivered
+966,426,184,2023-09-28,Ras Al Khaimah,Delivered
+967,485,9,2024-01-22,Sharjah,Delivered
+968,122,22,2023-04-03,Ajman,Returned
+969,125,141,2024-06-12,Fujairah,Returned
+970,37,89,2023-06-03,Umm Al Quwain,Delivered
+971,170,176,2024-02-09,Dubai,Returned
+972,124,18,2023-05-29,Abu Dhabi,Returned
+973,357,115,2023-09-24,Sharjah,Delivered
+974,35,168,2024-02-26,Fujairah,Delivered
+975,87,145,2024-04-16,Ras Al Khaimah,Delivered
+976,134,143,2024-06-30,Ras Al Khaimah,Delivered
+977,196,106,2024-06-09,Ras Al Khaimah,Delivered
+978,274,15,2024-05-17,Sharjah,Delivered
+979,201,63,2023-01-14,Ajman,Delivered
+980,369,167,2023-12-30,Sharjah,Delivered
+981,285,13,2023-04-29,Ras Al Khaimah,Cancelled
+982,77,81,2023-08-26,Umm Al Quwain,Delivered
+983,59,32,2024-06-29,Fujairah,Delivered
+984,431,137,2023-06-18,Abu Dhabi,Delivered
+985,126,40,2024-06-05,Abu Dhabi,Delivered
+986,500,148,2024-05-30,Sharjah,Cancelled
+987,401,82,2024-02-01,Ras Al Khaimah,Delivered
+988,109,77,2023-04-16,Dubai,Delivered
+989,224,191,2023-03-26,Umm Al Quwain,Returned
+990,496,76,2023-08-02,Sharjah,Delivered
+991,278,172,2023-05-01,Ras Al Khaimah,Delivered
+992,68,38,2023-05-12,Ajman,Delivered
+993,69,188,2023-07-16,Abu Dhabi,Returned
+994,165,71,2023-01-19,Abu Dhabi,Delivered
+995,489,48,2023-01-12,Umm Al Quwain,Delivered
+996,305,18,2023-03-22,Abu Dhabi,Delivered
+997,397,144,2023-11-26,Dubai,Delivered
+998,162,183,2024-01-27,Ras Al Khaimah,Returned
+999,365,39,2023-11-03,Ras Al Khaimah,Delivered
+1000,342,196,2023-09-24,Umm Al Quwain,Delivered
+1001,309,187,2024-03-22,Ras Al Khaimah,Delivered
+1002,379,89,2024-03-16,Umm Al Quwain,Returned
+1003,343,62,2023-01-02,Ras Al Khaimah,Delivered
+1004,435,141,2024-06-03,Dubai,Returned
+1005,387,109,2023-11-05,Fujairah,Returned
+1006,42,81,2024-06-05,Sharjah,Delivered
+1007,354,134,2024-04-13,Sharjah,Delivered
+1008,416,77,2023-07-31,Ras Al Khaimah,Delivered
+1009,109,188,2023-04-22,Ajman,Returned
+1010,51,90,2023-01-08,Abu Dhabi,Delivered
+1011,250,14,2024-04-21,Dubai,Delivered
+1012,497,95,2024-04-04,Ajman,Returned
+1013,341,54,2023-09-10,Ajman,Delivered
+1014,430,132,2024-06-09,Ras Al Khaimah,Delivered
+1015,383,39,2024-03-13,Dubai,Delivered
+1016,492,72,2023-08-24,Sharjah,Delivered
+1017,21,25,2023-11-02,Abu Dhabi,Returned
+1018,300,77,2024-04-22,Sharjah,Delivered
+1019,139,160,2023-01-20,Ajman,Delivered
+1020,359,187,2023-08-04,Abu Dhabi,Returned
+1021,324,191,2023-05-15,Fujairah,Delivered
+1022,499,166,2023-05-09,Ajman,Cancelled
+1023,385,120,2024-02-14,Sharjah,Cancelled
+1024,92,53,2024-02-26,Sharjah,Delivered
+1025,447,195,2023-10-21,Ras Al Khaimah,Delivered
+1026,280,156,2023-09-03,Sharjah,Delivered
+1027,125,131,2024-07-09,Dubai,Delivered
+1028,483,150,2023-03-27,Ajman,Delivered
+1029,397,96,2024-07-09,Umm Al Quwain,Delivered
+1030,111,166,2024-01-10,Umm Al Quwain,Delivered
+1031,354,200,2024-03-21,Abu Dhabi,Returned
+1032,139,72,2024-01-13,Sharjah,Delivered
+1033,484,62,2024-01-25,Ras Al Khaimah,Delivered
+1034,435,185,2023-02-20,Ras Al Khaimah,Delivered
+1035,273,6,2023-08-30,Sharjah,Cancelled
+1036,99,32,2023-10-21,Dubai,Delivered
+1037,252,99,2024-07-16,Ras Al Khaimah,Returned
+1038,338,138,2023-09-23,Umm Al Quwain,Delivered
+1039,104,131,2023-04-30,Abu Dhabi,Delivered
+1040,214,187,2023-09-05,Ajman,Delivered
+1041,249,76,2023-03-11,Fujairah,Delivered
+1042,152,177,2023-02-26,Dubai,Delivered
+1043,250,59,2024-01-17,Ras Al Khaimah,Delivered
+1044,275,31,2023-02-08,Ajman,Delivered
+1045,165,93,2024-03-18,Fujairah,Cancelled
+1046,487,69,2023-01-18,Sharjah,Delivered
+1047,341,190,2023-12-18,Sharjah,Cancelled
+1048,8,52,2023-10-25,Abu Dhabi,Delivered
+1049,284,89,2023-10-10,Fujairah,Delivered
+1050,5,127,2024-08-08,Sharjah,Delivered
+1051,145,169,2023-04-20,Sharjah,Delivered
+1052,101,31,2023-06-29,Umm Al Quwain,Delivered
+1053,164,84,2024-06-27,Ras Al Khaimah,Delivered
+1054,374,127,2023-01-25,Abu Dhabi,Delivered
+1055,147,150,2023-02-26,Ajman,Delivered
+1056,64,132,2023-06-29,Sharjah,Delivered
+1057,91,13,2023-08-20,Umm Al Quwain,Returned
+1058,117,45,2023-12-09,Dubai,Delivered
+1059,354,127,2024-04-21,Dubai,Delivered
+1060,267,170,2024-07-29,Ajman,Delivered
+1061,310,114,2024-03-30,Fujairah,Delivered
+1062,173,177,2023-08-20,Abu Dhabi,Delivered
+1063,47,20,2023-10-16,Umm Al Quwain,Delivered
+1064,140,81,2023-08-01,Ras Al Khaimah,Delivered
+1065,246,182,2023-09-15,Umm Al Quwain,Delivered
+1066,149,164,2024-06-13,Dubai,Delivered
+1067,246,129,2023-08-17,Dubai,Delivered
+1068,395,143,2023-08-14,Ajman,Delivered
+1069,487,17,2024-08-18,Fujairah,Cancelled
+1070,476,152,2024-03-10,Fujairah,Delivered
+1071,5,58,2024-02-06,Ajman,Delivered
+1072,465,72,2023-03-29,Umm Al Quwain,Returned
+1073,184,109,2024-08-06,Dubai,Returned
+1074,20,23,2024-06-25,Umm Al Quwain,Delivered
+1075,425,174,2023-11-05,Umm Al Quwain,Delivered
+1076,46,72,2023-12-09,Abu Dhabi,Cancelled
+1077,12,8,2024-03-11,Dubai,Delivered
+1078,70,59,2023-06-26,Fujairah,Cancelled
+1079,17,111,2023-05-19,Ras Al Khaimah,Delivered
+1080,371,187,2023-07-13,Umm Al Quwain,Delivered
+1081,147,13,2023-07-05,Dubai,Delivered
+1082,154,167,2023-08-06,Umm Al Quwain,Delivered
+1083,304,156,2023-06-13,Abu Dhabi,Returned
+1084,108,189,2023-06-10,Sharjah,Cancelled
+1085,236,16,2024-06-08,Dubai,Delivered
+1086,308,119,2023-02-11,Ajman,Delivered
+1087,352,2,2023-07-29,Sharjah,Returned
+1088,70,145,2023-10-02,Umm Al Quwain,Delivered
+1089,183,30,2023-10-06,Ajman,Delivered
+1090,250,103,2023-09-08,Ajman,Delivered
+1091,228,13,2023-11-06,Ajman,Delivered
+1092,102,96,2023-05-20,Dubai,Returned
+1093,75,94,2024-06-29,Fujairah,Delivered
+1094,417,82,2024-06-13,Umm Al Quwain,Delivered
+1095,446,13,2023-02-26,Sharjah,Cancelled
+1096,216,171,2023-04-22,Abu Dhabi,Delivered
+1097,407,94,2023-01-05,Fujairah,Delivered
+1098,399,149,2024-02-14,Umm Al Quwain,Delivered
+1099,411,112,2024-02-18,Dubai,Delivered
+1100,203,55,2023-07-01,Ajman,Delivered
+1101,192,81,2023-01-13,Abu Dhabi,Delivered
+1102,249,168,2023-12-05,Umm Al Quwain,Delivered
+1103,499,116,2023-09-16,Sharjah,Delivered
+1104,242,143,2023-03-31,Umm Al Quwain,Delivered
+1105,465,180,2023-09-07,Fujairah,Delivered
+1106,179,108,2023-09-12,Ras Al Khaimah,Delivered
+1107,437,53,2024-08-10,Fujairah,Delivered
+1108,462,128,2023-04-18,Umm Al Quwain,Delivered
+1109,219,180,2024-08-16,Abu Dhabi,Delivered
+1110,82,158,2024-08-11,Umm Al Quwain,Cancelled
+1111,92,161,2024-04-29,Umm Al Quwain,Returned
+1112,435,57,2023-09-15,Dubai,Delivered
+1113,175,52,2023-10-09,Sharjah,Returned
+1114,239,137,2023-03-29,Abu Dhabi,Delivered
+1115,260,182,2023-07-23,Umm Al Quwain,Cancelled
+1116,391,111,2023-01-16,Ajman,Delivered
+1117,365,1,2023-05-31,Sharjah,Delivered
+1118,163,44,2023-09-11,Fujairah,Delivered
+1119,48,75,2023-07-07,Abu Dhabi,Delivered
+1120,329,98,2023-11-25,Fujairah,Cancelled
+1121,328,9,2024-06-27,Umm Al Quwain,Delivered
+1122,116,32,2024-02-01,Fujairah,Delivered
+1123,429,15,2024-05-31,Fujairah,Delivered
+1124,337,140,2024-04-03,Dubai,Delivered
+1125,337,185,2023-11-26,Fujairah,Delivered
+1126,369,136,2023-06-18,Ajman,Delivered
+1127,225,72,2024-01-01,Ajman,Cancelled
+1128,352,155,2023-06-27,Sharjah,Delivered
+1129,328,190,2023-12-28,Umm Al Quwain,Delivered
+1130,147,12,2023-02-09,Ras Al Khaimah,Cancelled
+1131,63,65,2024-02-20,Fujairah,Delivered
+1132,294,107,2023-12-21,Fujairah,Delivered
+1133,323,42,2023-09-12,Abu Dhabi,Delivered
+1134,443,190,2023-05-23,Dubai,Returned
+1135,325,115,2024-07-30,Ras Al Khaimah,Delivered
+1136,13,139,2023-01-11,Sharjah,Cancelled
+1137,431,103,2023-01-26,Ras Al Khaimah,Returned
+1138,494,171,2024-02-25,Fujairah,Delivered
+1139,189,95,2023-08-09,Abu Dhabi,Delivered
+1140,287,17,2024-05-10,Umm Al Quwain,Delivered
+1141,208,160,2023-08-25,Dubai,Delivered
+1142,114,85,2023-08-25,Umm Al Quwain,Returned
+1143,480,168,2023-08-07,Sharjah,Cancelled
+1144,22,151,2024-05-01,Ras Al Khaimah,Delivered
+1145,349,56,2024-04-05,Sharjah,Delivered
+1146,214,134,2023-05-24,Fujairah,Delivered
+1147,171,86,2023-07-08,Sharjah,Delivered
+1148,323,178,2023-09-12,Umm Al Quwain,Delivered
+1149,54,102,2023-03-09,Abu Dhabi,Delivered
+1150,394,165,2023-12-02,Sharjah,Delivered
+1151,298,192,2024-02-13,Ajman,Delivered
+1152,320,54,2023-10-27,Abu Dhabi,Delivered
+1153,126,200,2023-12-23,Ras Al Khaimah,Returned
+1154,277,177,2023-09-13,Dubai,Returned
+1155,464,115,2023-12-19,Dubai,Delivered
+1156,204,139,2024-06-04,Fujairah,Delivered
+1157,194,88,2024-06-07,Fujairah,Delivered
+1158,169,49,2023-10-11,Ajman,Delivered
+1159,152,149,2023-11-08,Ras Al Khaimah,Delivered
+1160,35,115,2023-04-09,Umm Al Quwain,Delivered
+1161,184,194,2023-07-16,Dubai,Delivered
+1162,286,63,2024-04-26,Dubai,Delivered
+1163,57,104,2023-08-14,Dubai,Delivered
+1164,222,83,2023-12-31,Umm Al Quwain,Delivered
+1165,303,103,2024-01-03,Dubai,Delivered
+1166,163,156,2024-07-23,Sharjah,Cancelled
+1167,19,17,2024-08-12,Ras Al Khaimah,Delivered
+1168,370,6,2023-03-16,Abu Dhabi,Delivered
+1169,264,147,2023-02-11,Abu Dhabi,Delivered
+1170,282,184,2024-02-26,Ajman,Cancelled
+1171,113,28,2023-06-30,Sharjah,Delivered
+1172,488,194,2024-06-28,Dubai,Delivered
+1173,327,38,2023-03-12,Dubai,Returned
+1174,30,119,2024-07-21,Fujairah,Delivered
+1175,135,37,2023-04-15,Fujairah,Delivered
+1176,67,115,2023-07-19,Ajman,Delivered
+1177,65,68,2023-04-11,Dubai,Delivered
+1178,292,177,2023-11-03,Ajman,Delivered
+1179,25,43,2024-08-08,Sharjah,Delivered
+1180,37,164,2024-01-12,Abu Dhabi,Delivered
+1181,1,58,2024-02-03,Dubai,Delivered
+1182,399,13,2023-08-09,Ras Al Khaimah,Delivered
+1183,37,52,2024-08-17,Umm Al Quwain,Delivered
+1184,141,58,2023-07-01,Sharjah,Delivered
+1185,232,32,2023-11-03,Dubai,Cancelled
+1186,136,105,2024-06-05,Umm Al Quwain,Delivered
+1187,389,188,2024-01-31,Ras Al Khaimah,Delivered
+1188,188,83,2023-01-04,Fujairah,Delivered
+1189,128,186,2023-10-08,Ajman,Delivered
+1190,201,99,2023-08-03,Fujairah,Delivered
+1191,127,104,2024-02-24,Abu Dhabi,Delivered
+1192,257,184,2023-04-11,Fujairah,Delivered
+1193,164,28,2024-06-04,Dubai,Delivered
+1194,35,129,2024-07-26,Ras Al Khaimah,Returned
+1195,194,170,2023-11-05,Fujairah,Delivered
+1196,191,48,2024-05-24,Dubai,Delivered
+1197,104,40,2023-03-04,Abu Dhabi,Delivered
+1198,23,97,2023-08-14,Umm Al Quwain,Delivered
+1199,265,191,2023-04-15,Ras Al Khaimah,Delivered
+1200,290,200,2024-02-29,Fujairah,Delivered
+1201,430,114,2023-09-12,Ajman,Delivered
+1202,462,132,2024-03-04,Ajman,Delivered
+1203,384,166,2024-03-09,Ras Al Khaimah,Returned
+1204,260,155,2023-07-26,Ajman,Delivered
+1205,414,137,2023-01-28,Fujairah,Delivered
+1206,479,111,2023-12-02,Fujairah,Returned
+1207,358,144,2024-08-10,Ras Al Khaimah,Delivered
+1208,75,184,2023-03-10,Fujairah,Delivered
+1209,355,76,2024-05-27,Umm Al Quwain,Delivered
+1210,72,31,2023-06-16,Dubai,Delivered
+1211,259,119,2024-01-03,Abu Dhabi,Delivered
+1212,398,142,2023-09-08,Umm Al Quwain,Delivered
+1213,188,25,2023-06-19,Umm Al Quwain,Delivered
+1214,461,34,2023-03-31,Ajman,Delivered
+1215,173,67,2024-07-14,Dubai,Returned
+1216,480,152,2024-03-21,Ras Al Khaimah,Delivered
+1217,290,118,2023-10-21,Ajman,Delivered
+1218,45,73,2023-05-30,Dubai,Delivered
+1219,61,26,2023-05-12,Fujairah,Delivered
+1220,83,148,2024-03-08,Ras Al Khaimah,Returned
+1221,123,192,2023-02-28,Ras Al Khaimah,Delivered
+1222,358,104,2023-07-18,Ajman,Delivered
+1223,16,10,2023-08-03,Fujairah,Delivered
+1224,66,67,2024-07-14,Ajman,Delivered
+1225,424,152,2024-04-16,Sharjah,Delivered
+1226,145,5,2023-09-04,Dubai,Delivered
+1227,375,195,2024-01-17,Sharjah,Delivered
+1228,162,186,2023-08-27,Dubai,Delivered
+1229,234,27,2024-01-02,Abu Dhabi,Delivered
+1230,380,113,2023-06-17,Umm Al Quwain,Delivered
+1231,144,15,2024-07-13,Ras Al Khaimah,Cancelled
+1232,358,163,2023-02-20,Ajman,Returned
+1233,188,105,2024-01-15,Abu Dhabi,Cancelled
+1234,322,181,2024-04-18,Abu Dhabi,Cancelled
+1235,450,44,2023-03-21,Ras Al Khaimah,Delivered
+1236,474,26,2024-01-02,Ras Al Khaimah,Delivered
+1237,13,175,2024-04-05,Dubai,Delivered
+1238,184,162,2024-06-22,Sharjah,Returned
+1239,111,95,2024-03-27,Fujairah,Delivered
+1240,415,178,2024-04-08,Dubai,Cancelled
+1241,290,84,2024-04-22,Fujairah,Delivered
+1242,295,140,2024-02-24,Abu Dhabi,Returned
+1243,451,132,2023-08-02,Fujairah,Delivered
+1244,392,87,2024-01-04,Sharjah,Delivered
+1245,215,176,2023-04-24,Dubai,Returned
+1246,462,183,2024-05-17,Ras Al Khaimah,Delivered
+1247,120,112,2024-08-10,Sharjah,Returned
+1248,382,129,2023-11-07,Umm Al Quwain,Delivered
+1249,55,89,2024-04-13,Sharjah,Delivered
+1250,27,66,2023-02-13,Umm Al Quwain,Delivered
+1251,118,158,2024-02-19,Dubai,Delivered
+1252,221,131,2023-09-03,Ras Al Khaimah,Delivered
+1253,231,122,2023-03-25,Sharjah,Delivered
+1254,53,149,2023-07-26,Umm Al Quwain,Delivered
+1255,295,84,2023-05-31,Ras Al Khaimah,Delivered
+1256,321,177,2024-06-11,Ajman,Delivered
+1257,401,116,2023-06-14,Ajman,Delivered
+1258,233,190,2023-05-25,Ajman,Delivered
+1259,158,116,2023-02-06,Fujairah,Delivered
+1260,437,38,2023-11-29,Sharjah,Delivered
+1261,269,143,2024-02-07,Dubai,Delivered
+1262,21,110,2024-02-18,Dubai,Delivered
+1263,403,180,2023-02-14,Fujairah,Delivered
+1264,53,46,2024-02-06,Dubai,Cancelled
+1265,275,25,2023-07-25,Umm Al Quwain,Returned
+1266,313,21,2023-03-03,Ajman,Delivered
+1267,281,121,2024-02-24,Sharjah,Delivered
+1268,214,122,2024-04-12,Dubai,Returned
+1269,31,133,2023-01-19,Dubai,Delivered
+1270,337,70,2023-12-31,Abu Dhabi,Delivered
+1271,183,113,2023-10-27,Abu Dhabi,Delivered
+1272,23,107,2023-01-07,Abu Dhabi,Delivered
+1273,32,112,2024-03-03,Sharjah,Cancelled
+1274,446,108,2023-04-27,Ajman,Delivered
+1275,74,47,2024-08-02,Ras Al Khaimah,Delivered
+1276,10,196,2024-05-21,Ajman,Delivered
+1277,484,91,2024-06-29,Ajman,Returned
+1278,456,18,2023-11-21,Sharjah,Returned
+1279,54,149,2023-02-24,Umm Al Quwain,Delivered
+1280,52,104,2023-02-11,Umm Al Quwain,Delivered
+1281,148,151,2023-10-24,Sharjah,Delivered
+1282,160,192,2023-08-19,Abu Dhabi,Returned
+1283,370,195,2024-03-28,Dubai,Returned
+1284,14,40,2024-01-29,Fujairah,Delivered
+1285,178,138,2024-06-05,Fujairah,Delivered
+1286,412,89,2023-12-24,Ras Al Khaimah,Delivered
+1287,366,180,2024-03-19,Dubai,Delivered
+1288,500,200,2023-05-08,Ras Al Khaimah,Delivered
+1289,53,61,2024-02-09,Abu Dhabi,Delivered
+1290,408,192,2024-01-27,Ras Al Khaimah,Delivered
+1291,335,5,2023-07-12,Dubai,Delivered
+1292,22,122,2023-03-19,Dubai,Delivered
+1293,30,181,2023-03-26,Fujairah,Delivered
+1294,191,55,2023-01-30,Umm Al Quwain,Delivered
+1295,260,37,2023-02-18,Abu Dhabi,Delivered
+1296,205,56,2023-05-25,Sharjah,Delivered
+1297,59,187,2023-03-10,Ras Al Khaimah,Delivered
+1298,471,102,2023-02-27,Fujairah,Delivered
+1299,264,93,2024-07-27,Ras Al Khaimah,Returned
+1300,466,197,2024-04-23,Ras Al Khaimah,Delivered
+1301,12,73,2024-03-20,Sharjah,Returned
+1302,119,59,2023-10-23,Abu Dhabi,Delivered
+1303,415,2,2023-06-20,Dubai,Delivered
+1304,462,193,2024-07-28,Ajman,Delivered
+1305,290,104,2023-05-27,Ras Al Khaimah,Delivered
+1306,338,188,2024-04-28,Ajman,Delivered
+1307,248,51,2023-11-02,Abu Dhabi,Delivered
+1308,354,30,2024-03-21,Ajman,Returned
+1309,127,11,2023-08-09,Ras Al Khaimah,Delivered
+1310,75,108,2024-07-08,Sharjah,Cancelled
+1311,361,76,2024-01-13,Ajman,Returned
+1312,204,167,2023-09-23,Abu Dhabi,Delivered
+1313,49,90,2023-04-05,Abu Dhabi,Delivered
+1314,79,123,2023-09-19,Umm Al Quwain,Delivered
+1315,441,200,2023-03-12,Umm Al Quwain,Returned
+1316,479,191,2023-08-07,Sharjah,Delivered
+1317,241,192,2024-06-16,Ajman,Returned
+1318,349,189,2023-04-02,Ajman,Delivered
+1319,154,125,2023-05-07,Umm Al Quwain,Cancelled
+1320,274,182,2023-03-21,Dubai,Delivered
+1321,96,122,2023-08-26,Fujairah,Delivered
+1322,214,94,2024-01-07,Abu Dhabi,Returned
+1323,294,103,2024-04-30,Dubai,Returned
+1324,209,186,2023-01-25,Abu Dhabi,Delivered
+1325,343,184,2023-06-05,Dubai,Delivered
+1326,88,162,2024-05-31,Umm Al Quwain,Delivered
+1327,306,31,2024-06-13,Umm Al Quwain,Cancelled
+1328,264,52,2023-02-26,Fujairah,Returned
+1329,425,89,2023-01-19,Dubai,Returned
+1330,390,76,2024-01-19,Abu Dhabi,Delivered
+1331,325,129,2023-07-12,Ajman,Delivered
+1332,428,183,2023-08-25,Abu Dhabi,Delivered
+1333,377,22,2024-01-22,Ras Al Khaimah,Returned
+1334,320,40,2024-03-01,Umm Al Quwain,Delivered
+1335,157,101,2023-10-04,Sharjah,Returned
+1336,156,111,2023-08-15,Sharjah,Delivered
+1337,139,129,2024-07-05,Umm Al Quwain,Delivered
+1338,121,65,2023-11-19,Ras Al Khaimah,Delivered
+1339,65,191,2023-06-02,Sharjah,Delivered
+1340,107,182,2023-08-25,Umm Al Quwain,Delivered
+1341,147,170,2023-02-24,Sharjah,Delivered
+1342,137,149,2024-03-11,Umm Al Quwain,Delivered
+1343,411,79,2023-04-19,Fujairah,Returned
+1344,162,22,2023-07-03,Ajman,Delivered
+1345,428,166,2024-01-03,Ajman,Delivered
+1346,452,99,2023-07-17,Abu Dhabi,Delivered
+1347,100,8,2024-01-06,Ras Al Khaimah,Delivered
+1348,338,190,2024-01-08,Umm Al Quwain,Returned
+1349,399,175,2024-05-11,Dubai,Delivered
+1350,307,17,2024-08-21,Abu Dhabi,Returned
+1351,141,17,2023-07-20,Abu Dhabi,Delivered
+1352,83,90,2024-05-23,Umm Al Quwain,Delivered
+1353,177,141,2023-11-18,Umm Al Quwain,Delivered
+1354,198,145,2023-10-02,Abu Dhabi,Delivered
+1355,112,166,2023-07-30,Abu Dhabi,Delivered
+1356,56,81,2024-05-18,Ajman,Delivered
+1357,460,78,2023-04-28,Dubai,Delivered
+1358,179,173,2024-07-07,Abu Dhabi,Delivered
+1359,421,6,2023-02-11,Ajman,Delivered
+1360,401,163,2023-11-11,Abu Dhabi,Delivered
+1361,186,110,2023-11-25,Sharjah,Delivered
+1362,471,14,2023-01-17,Abu Dhabi,Delivered
+1363,218,72,2023-10-10,Umm Al Quwain,Delivered
+1364,413,189,2023-09-15,Ras Al Khaimah,Delivered
+1365,417,143,2024-07-28,Ras Al Khaimah,Delivered
+1366,316,54,2024-07-27,Abu Dhabi,Returned
+1367,475,27,2023-01-19,Fujairah,Delivered
+1368,217,13,2024-06-12,Sharjah,Delivered
+1369,120,159,2024-02-27,Dubai,Cancelled
+1370,439,163,2024-04-10,Abu Dhabi,Delivered
+1371,394,60,2024-01-08,Dubai,Delivered
+1372,175,6,2023-03-22,Sharjah,Delivered
+1373,23,197,2024-07-04,Abu Dhabi,Delivered
+1374,213,58,2024-07-01,Fujairah,Delivered
+1375,405,49,2024-02-28,Ajman,Cancelled
+1376,235,151,2024-03-04,Fujairah,Delivered
+1377,13,162,2024-01-23,Umm Al Quwain,Returned
+1378,101,26,2023-07-23,Fujairah,Delivered
+1379,417,47,2023-07-15,Ajman,Delivered
+1380,24,5,2023-10-12,Umm Al Quwain,Delivered
+1381,364,20,2023-07-15,Ajman,Returned
+1382,11,134,2023-11-03,Ras Al Khaimah,Cancelled
+1383,273,198,2023-01-14,Ajman,Delivered
+1384,452,59,2023-05-26,Abu Dhabi,Cancelled
+1385,431,192,2023-02-26,Dubai,Delivered
+1386,281,146,2023-07-29,Ras Al Khaimah,Delivered
+1387,94,132,2024-06-12,Ras Al Khaimah,Delivered
+1388,201,17,2023-12-10,Dubai,Delivered
+1389,21,14,2023-10-06,Ras Al Khaimah,Delivered
+1390,340,13,2023-07-28,Ajman,Delivered
+1391,467,135,2023-12-01,Fujairah,Delivered
+1392,211,128,2023-10-15,Sharjah,Delivered
+1393,140,44,2023-09-09,Ajman,Delivered
+1394,293,119,2023-09-22,Umm Al Quwain,Cancelled
+1395,298,143,2023-09-28,Umm Al Quwain,Delivered
+1396,401,19,2024-02-23,Fujairah,Delivered
+1397,101,63,2023-07-30,Fujairah,Delivered
+1398,304,163,2023-12-31,Ras Al Khaimah,Delivered
+1399,359,81,2023-03-17,Abu Dhabi,Returned
+1400,28,163,2023-11-17,Abu Dhabi,Delivered
+1401,41,147,2024-03-08,Ras Al Khaimah,Returned
+1402,355,148,2023-04-19,Ras Al Khaimah,Delivered
+1403,303,100,2024-06-05,Dubai,Delivered
+1404,496,163,2023-02-16,Dubai,Delivered
+1405,146,160,2024-01-14,Sharjah,Delivered
+1406,256,122,2023-04-06,Sharjah,Delivered
+1407,462,176,2023-04-13,Sharjah,Delivered
+1408,227,44,2023-05-26,Sharjah,Delivered
+1409,236,104,2023-01-27,Fujairah,Delivered
+1410,361,152,2024-06-13,Fujairah,Cancelled
+1411,380,61,2023-03-23,Dubai,Delivered
+1412,455,125,2024-03-03,Abu Dhabi,Delivered
+1413,489,145,2024-08-06,Ras Al Khaimah,Delivered
+1414,13,71,2024-04-23,Umm Al Quwain,Delivered
+1415,210,107,2023-06-11,Abu Dhabi,Delivered
+1416,229,50,2024-02-06,Ajman,Returned
+1417,397,65,2024-05-22,Fujairah,Cancelled
+1418,100,99,2023-02-07,Sharjah,Delivered
+1419,31,32,2024-05-25,Sharjah,Delivered
+1420,386,164,2024-01-28,Ajman,Delivered
+1421,16,141,2024-05-08,Abu Dhabi,Delivered
+1422,137,198,2023-07-19,Sharjah,Delivered
+1423,329,58,2023-09-12,Abu Dhabi,Delivered
+1424,166,128,2023-06-28,Ras Al Khaimah,Delivered
+1425,459,142,2024-06-30,Ajman,Delivered
+1426,310,165,2024-08-16,Umm Al Quwain,Delivered
+1427,440,112,2024-01-24,Abu Dhabi,Delivered
+1428,470,68,2024-02-02,Ras Al Khaimah,Delivered
+1429,481,40,2023-06-07,Abu Dhabi,Delivered
+1430,100,187,2023-01-04,Abu Dhabi,Returned
+1431,109,144,2023-06-16,Sharjah,Delivered
+1432,343,190,2024-04-12,Dubai,Returned
+1433,173,132,2024-02-13,Fujairah,Delivered
+1434,237,173,2024-02-16,Abu Dhabi,Delivered
+1435,162,90,2023-07-23,Abu Dhabi,Delivered
+1436,393,28,2023-07-13,Abu Dhabi,Delivered
+1437,216,96,2023-08-23,Dubai,Cancelled
+1438,264,194,2023-05-30,Ras Al Khaimah,Delivered
+1439,263,31,2023-06-08,Umm Al Quwain,Delivered
+1440,292,3,2023-10-06,Umm Al Quwain,Delivered
+1441,274,136,2024-02-08,Ajman,Cancelled
+1442,3,24,2023-11-07,Sharjah,Delivered
+1443,28,15,2023-03-09,Dubai,Cancelled
+1444,326,171,2024-04-07,Ras Al Khaimah,Cancelled
+1445,492,159,2023-03-29,Abu Dhabi,Delivered
+1446,428,45,2023-08-05,Ras Al Khaimah,Returned
+1447,149,194,2023-01-01,Dubai,Cancelled
+1448,28,8,2023-05-15,Dubai,Delivered
+1449,488,71,2023-12-17,Dubai,Delivered
+1450,310,108,2023-05-20,Ajman,Delivered
+1451,438,115,2023-05-13,Fujairah,Delivered
+1452,65,103,2023-06-27,Sharjah,Delivered
+1453,356,125,2023-12-24,Ajman,Delivered
+1454,21,57,2024-01-15,Ajman,Delivered
+1455,252,30,2024-03-25,Fujairah,Delivered
+1456,235,146,2024-08-08,Ajman,Delivered
+1457,227,114,2024-04-07,Dubai,Returned
+1458,13,197,2023-04-18,Dubai,Delivered
+1459,313,117,2023-05-02,Ras Al Khaimah,Delivered
+1460,49,167,2023-01-17,Abu Dhabi,Delivered
+1461,118,60,2023-07-15,Ajman,Delivered
+1462,54,98,2023-11-23,Abu Dhabi,Cancelled
+1463,138,171,2023-11-14,Sharjah,Delivered
+1464,53,126,2024-04-23,Umm Al Quwain,Delivered
+1465,44,173,2023-09-09,Dubai,Cancelled
+1466,303,151,2024-05-17,Ras Al Khaimah,Cancelled
+1467,53,197,2023-04-29,Sharjah,Delivered
+1468,74,94,2024-05-12,Ras Al Khaimah,Returned
+1469,46,134,2024-04-30,Umm Al Quwain,Delivered
+1470,13,184,2023-02-14,Umm Al Quwain,Delivered
+1471,165,122,2023-11-10,Fujairah,Delivered
+1472,102,108,2023-06-28,Dubai,Delivered
+1473,280,4,2024-02-22,Sharjah,Returned
+1474,258,93,2024-07-09,Fujairah,Delivered
+1475,470,151,2023-03-19,Umm Al Quwain,Delivered
+1476,337,6,2023-11-22,Sharjah,Cancelled
+1477,356,32,2023-12-23,Ras Al Khaimah,Delivered
+1478,398,106,2024-02-20,Fujairah,Cancelled
+1479,138,146,2024-05-29,Fujairah,Cancelled
+1480,163,15,2023-08-02,Dubai,Delivered
+1481,409,168,2023-03-15,Abu Dhabi,Delivered
+1482,387,122,2024-07-16,Ras Al Khaimah,Delivered
+1483,111,96,2024-08-01,Ras Al Khaimah,Delivered
+1484,102,6,2024-05-23,Fujairah,Delivered
+1485,17,112,2023-11-28,Fujairah,Delivered
+1486,268,120,2023-04-03,Dubai,Cancelled
+1487,182,123,2024-06-02,Abu Dhabi,Delivered
+1488,372,191,2023-09-26,Ras Al Khaimah,Delivered
+1489,24,67,2024-01-11,Umm Al Quwain,Delivered
+1490,29,106,2023-01-04,Ajman,Delivered
+1491,171,139,2023-05-18,Ajman,Cancelled
+1492,409,43,2023-08-19,Abu Dhabi,Delivered
+1493,228,145,2024-08-22,Sharjah,Delivered
+1494,378,96,2024-06-12,Dubai,Delivered
+1495,188,132,2023-02-21,Abu Dhabi,Delivered
+1496,346,191,2023-11-21,Ajman,Delivered
+1497,230,196,2023-10-04,Fujairah,Delivered
+1498,321,81,2024-06-19,Ajman,Delivered
+1499,340,41,2024-04-30,Fujairah,Cancelled
+1500,119,133,2024-05-30,Dubai,Cancelled
+1501,156,160,2023-06-01,Fujairah,Delivered
+1502,272,198,2024-04-27,Abu Dhabi,Returned
+1503,175,35,2023-09-16,Fujairah,Delivered
+1504,465,22,2023-11-20,Sharjah,Delivered
+1505,104,193,2023-06-17,Abu Dhabi,Delivered
+1506,92,150,2023-11-06,Dubai,Delivered
+1507,186,112,2024-04-23,Abu Dhabi,Delivered
+1508,460,11,2023-02-25,Sharjah,Delivered
+1509,283,3,2024-04-17,Dubai,Delivered
+1510,181,137,2023-10-23,Ajman,Returned
+1511,170,60,2024-04-05,Sharjah,Delivered
+1512,187,76,2023-11-20,Dubai,Delivered
+1513,175,87,2023-05-21,Umm Al Quwain,Cancelled
+1514,222,14,2023-09-19,Fujairah,Delivered
+1515,233,18,2024-02-24,Abu Dhabi,Delivered
+1516,162,113,2023-08-29,Dubai,Returned
+1517,421,73,2023-12-21,Abu Dhabi,Delivered
+1518,134,23,2024-08-11,Fujairah,Delivered
+1519,391,83,2023-06-29,Dubai,Delivered
+1520,480,125,2023-03-07,Ajman,Returned
+1521,224,175,2023-12-14,Umm Al Quwain,Delivered
+1522,153,69,2023-06-20,Umm Al Quwain,Returned
+1523,33,47,2024-04-18,Sharjah,Delivered
+1524,55,116,2024-06-17,Dubai,Delivered
+1525,442,30,2024-01-02,Fujairah,Returned
+1526,7,25,2023-04-17,Dubai,Delivered
+1527,244,156,2024-03-14,Abu Dhabi,Delivered
+1528,313,112,2023-08-15,Ras Al Khaimah,Delivered
+1529,126,25,2024-03-19,Dubai,Returned
+1530,12,74,2024-03-17,Umm Al Quwain,Delivered
+1531,16,58,2024-01-31,Umm Al Quwain,Delivered
+1532,208,94,2024-08-03,Umm Al Quwain,Delivered
+1533,43,119,2023-03-25,Ajman,Cancelled
+1534,373,127,2024-07-04,Dubai,Delivered
+1535,484,169,2023-01-13,Sharjah,Delivered
+1536,461,25,2024-05-07,Dubai,Delivered
+1537,135,78,2023-09-25,Ras Al Khaimah,Delivered
+1538,228,99,2024-06-08,Umm Al Quwain,Delivered
+1539,111,116,2023-04-30,Abu Dhabi,Delivered
+1540,307,48,2023-12-19,Umm Al Quwain,Delivered
+1541,457,10,2023-02-26,Dubai,Returned
+1542,160,99,2023-02-09,Ajman,Returned
+1543,331,11,2023-12-02,Fujairah,Delivered
+1544,264,85,2023-06-22,Dubai,Returned
+1545,225,149,2024-06-30,Dubai,Delivered
+1546,471,173,2023-09-16,Sharjah,Returned
+1547,217,135,2024-05-31,Ajman,Delivered
+1548,456,192,2024-06-06,Ras Al Khaimah,Delivered
+1549,45,126,2023-04-27,Fujairah,Cancelled
+1550,214,64,2023-07-03,Umm Al Quwain,Returned
+1551,59,2,2023-04-26,Abu Dhabi,Delivered
+1552,132,76,2023-06-11,Dubai,Delivered
+1553,104,121,2024-08-01,Ras Al Khaimah,Delivered
+1554,195,42,2024-06-26,Fujairah,Delivered
+1555,413,54,2024-08-09,Abu Dhabi,Delivered
+1556,489,75,2023-08-25,Ras Al Khaimah,Delivered
+1557,157,16,2023-03-07,Ajman,Returned
+1558,98,18,2023-03-11,Ajman,Delivered
+1559,226,187,2024-03-22,Fujairah,Delivered
+1560,412,90,2024-02-20,Umm Al Quwain,Delivered
+1561,205,144,2024-06-15,Abu Dhabi,Delivered
+1562,79,6,2024-03-16,Ajman,Delivered
+1563,124,185,2024-04-08,Fujairah,Delivered
+1564,471,108,2024-01-31,Ajman,Returned
+1565,428,175,2024-07-04,Ajman,Returned
+1566,218,48,2024-07-10,Ras Al Khaimah,Delivered
+1567,4,42,2024-01-30,Ras Al Khaimah,Delivered
+1568,90,76,2023-11-22,Ajman,Delivered
+1569,104,188,2023-04-01,Sharjah,Returned
+1570,393,77,2023-03-11,Ras Al Khaimah,Returned
+1571,119,132,2023-06-15,Abu Dhabi,Delivered
+1572,133,130,2023-08-02,Fujairah,Delivered
+1573,312,59,2023-12-01,Fujairah,Returned
+1574,96,155,2024-01-04,Umm Al Quwain,Delivered
+1575,468,27,2024-08-06,Abu Dhabi,Delivered
+1576,434,79,2023-02-18,Abu Dhabi,Cancelled
+1577,331,72,2023-02-21,Abu Dhabi,Delivered
+1578,143,7,2023-10-16,Umm Al Quwain,Delivered
+1579,288,191,2023-08-27,Abu Dhabi,Delivered
+1580,28,111,2023-05-13,Dubai,Delivered
+1581,278,119,2023-06-15,Umm Al Quwain,Delivered
+1582,233,174,2024-01-09,Fujairah,Delivered
+1583,17,63,2024-01-08,Dubai,Delivered
+1584,59,124,2024-04-22,Umm Al Quwain,Delivered
+1585,90,12,2024-04-23,Ajman,Returned
+1586,492,141,2024-08-13,Ajman,Delivered
+1587,199,43,2023-10-27,Fujairah,Delivered
+1588,362,17,2023-03-23,Ajman,Delivered
+1589,441,63,2023-03-28,Abu Dhabi,Delivered
+1590,26,120,2023-08-13,Umm Al Quwain,Delivered
+1591,25,36,2023-01-16,Dubai,Delivered
+1592,394,8,2023-12-24,Abu Dhabi,Returned
+1593,301,69,2023-06-12,Ajman,Delivered
+1594,339,90,2024-05-28,Ras Al Khaimah,Cancelled
+1595,267,36,2023-12-16,Dubai,Cancelled
+1596,461,28,2024-04-08,Abu Dhabi,Delivered
+1597,181,118,2024-01-10,Umm Al Quwain,Delivered
+1598,456,93,2023-04-02,Fujairah,Cancelled
+1599,360,175,2023-06-30,Abu Dhabi,Cancelled
+1600,68,76,2023-10-28,Ras Al Khaimah,Delivered
+1601,495,101,2023-07-08,Ajman,Delivered
+1602,351,158,2023-11-10,Dubai,Delivered
+1603,412,151,2024-05-07,Fujairah,Cancelled
+1604,459,144,2023-05-08,Dubai,Delivered
+1605,491,14,2024-06-02,Fujairah,Delivered
+1606,321,71,2024-03-01,Umm Al Quwain,Returned
+1607,49,180,2024-07-12,Dubai,Delivered
+1608,175,124,2024-07-18,Ajman,Delivered
+1609,52,125,2023-07-06,Umm Al Quwain,Delivered
+1610,102,37,2024-07-03,Umm Al Quwain,Returned
+1611,216,29,2024-03-28,Fujairah,Delivered
+1612,438,195,2024-04-15,Sharjah,Delivered
+1613,188,143,2024-07-18,Dubai,Delivered
+1614,57,175,2023-08-12,Dubai,Delivered
+1615,47,174,2023-06-03,Abu Dhabi,Delivered
+1616,159,180,2024-07-13,Fujairah,Delivered
+1617,489,19,2023-12-17,Ras Al Khaimah,Delivered
+1618,174,106,2023-05-27,Sharjah,Returned
+1619,242,21,2024-07-29,Ajman,Returned
+1620,282,64,2023-12-15,Abu Dhabi,Delivered
+1621,241,165,2023-07-01,Sharjah,Delivered
+1622,370,27,2023-06-28,Fujairah,Delivered
+1623,5,55,2023-02-08,Sharjah,Returned
+1624,84,29,2023-01-03,Umm Al Quwain,Delivered
+1625,308,148,2023-03-05,Dubai,Delivered
+1626,361,25,2023-01-29,Umm Al Quwain,Delivered
+1627,459,70,2024-01-07,Dubai,Delivered
+1628,248,63,2024-06-06,Abu Dhabi,Delivered
+1629,54,164,2023-04-07,Fujairah,Delivered
+1630,161,130,2024-03-17,Fujairah,Delivered
+1631,434,150,2023-07-22,Sharjah,Delivered
+1632,422,16,2024-02-15,Abu Dhabi,Delivered
+1633,411,146,2023-01-21,Fujairah,Delivered
+1634,226,197,2024-07-04,Ras Al Khaimah,Delivered
+1635,15,182,2023-04-12,Ras Al Khaimah,Delivered
+1636,224,100,2023-02-15,Umm Al Quwain,Delivered
+1637,61,30,2023-03-07,Dubai,Delivered
+1638,122,45,2023-06-13,Sharjah,Delivered
+1639,277,19,2023-04-21,Ajman,Delivered
+1640,46,34,2023-12-04,Dubai,Delivered
+1641,453,141,2023-05-03,Abu Dhabi,Delivered
+1642,390,171,2024-03-22,Fujairah,Returned
+1643,294,62,2023-10-18,Dubai,Delivered
+1644,62,118,2024-02-16,Ajman,Delivered
+1645,86,100,2023-10-08,Ajman,Delivered
+1646,446,22,2023-02-12,Ras Al Khaimah,Delivered
+1647,210,180,2024-04-30,Abu Dhabi,Delivered
+1648,78,180,2024-08-18,Dubai,Delivered
+1649,202,111,2023-02-20,Sharjah,Delivered
+1650,302,164,2023-07-29,Dubai,Delivered
+1651,397,73,2023-05-06,Ras Al Khaimah,Delivered
+1652,223,147,2024-05-06,Umm Al Quwain,Returned
+1653,222,38,2024-05-23,Ajman,Cancelled
+1654,3,70,2024-08-03,Abu Dhabi,Delivered
+1655,478,116,2023-09-15,Abu Dhabi,Delivered
+1656,6,79,2023-07-07,Sharjah,Delivered
+1657,93,185,2023-08-18,Abu Dhabi,Delivered
+1658,8,148,2023-07-08,Ras Al Khaimah,Delivered
+1659,428,9,2024-02-19,Ras Al Khaimah,Delivered
+1660,493,32,2023-01-10,Ras Al Khaimah,Delivered
+1661,235,132,2023-04-24,Abu Dhabi,Delivered
+1662,108,50,2023-03-17,Abu Dhabi,Delivered
+1663,161,82,2024-05-16,Ras Al Khaimah,Delivered
+1664,209,5,2023-03-26,Abu Dhabi,Returned
+1665,240,148,2023-02-18,Abu Dhabi,Delivered
+1666,331,87,2024-05-09,Ajman,Delivered
+1667,333,126,2024-01-22,Dubai,Delivered
+1668,50,75,2024-01-24,Fujairah,Delivered
+1669,11,165,2023-08-06,Abu Dhabi,Delivered
+1670,351,22,2023-12-12,Fujairah,Delivered
+1671,156,186,2023-08-18,Umm Al Quwain,Delivered
+1672,492,68,2023-09-12,Fujairah,Delivered
+1673,70,44,2023-08-24,Ajman,Delivered
+1674,169,34,2023-01-26,Abu Dhabi,Delivered
+1675,272,77,2024-08-06,Ras Al Khaimah,Delivered
+1676,68,42,2023-09-18,Fujairah,Delivered
+1677,355,137,2023-09-28,Abu Dhabi,Delivered
+1678,252,106,2023-05-03,Sharjah,Delivered
+1679,48,95,2023-09-14,Umm Al Quwain,Cancelled
+1680,184,135,2024-02-25,Ras Al Khaimah,Delivered
+1681,320,68,2023-09-16,Sharjah,Delivered
+1682,187,147,2023-02-16,Sharjah,Delivered
+1683,90,159,2024-06-08,Fujairah,Cancelled
+1684,446,128,2023-07-27,Sharjah,Returned
+1685,332,163,2023-11-07,Ajman,Delivered
+1686,139,185,2023-05-29,Ajman,Delivered
+1687,357,85,2024-03-13,Fujairah,Delivered
+1688,89,189,2023-06-04,Abu Dhabi,Delivered
+1689,274,159,2023-03-31,Dubai,Delivered
+1690,19,83,2023-12-24,Abu Dhabi,Delivered
+1691,471,95,2023-06-23,Abu Dhabi,Delivered
+1692,311,181,2023-08-05,Abu Dhabi,Delivered
+1693,358,32,2024-03-31,Abu Dhabi,Returned
+1694,374,66,2023-07-18,Ras Al Khaimah,Delivered
+1695,466,187,2024-04-30,Dubai,Delivered
+1696,154,116,2024-06-16,Ras Al Khaimah,Delivered
+1697,390,138,2023-07-19,Sharjah,Returned
+1698,260,130,2024-01-06,Umm Al Quwain,Returned
+1699,108,194,2024-03-23,Abu Dhabi,Delivered
+1700,371,60,2023-09-05,Umm Al Quwain,Delivered
+1701,285,17,2023-09-21,Ajman,Returned
+1702,59,96,2023-02-27,Fujairah,Delivered
+1703,125,144,2023-10-29,Fujairah,Delivered
+1704,354,16,2023-01-31,Ras Al Khaimah,Returned
+1705,273,46,2024-05-12,Ras Al Khaimah,Delivered
+1706,107,167,2023-09-06,Ajman,Delivered
+1707,299,159,2023-09-28,Abu Dhabi,Returned
+1708,245,107,2024-01-29,Umm Al Quwain,Delivered
+1709,336,88,2024-05-16,Umm Al Quwain,Delivered
+1710,450,129,2024-08-14,Dubai,Delivered
+1711,418,139,2023-03-25,Sharjah,Delivered
+1712,247,119,2023-12-31,Fujairah,Delivered
+1713,8,85,2024-07-02,Sharjah,Delivered
+1714,141,4,2023-12-08,Dubai,Delivered
+1715,362,71,2024-02-11,Ras Al Khaimah,Delivered
+1716,8,154,2024-02-29,Umm Al Quwain,Delivered
+1717,478,111,2023-04-03,Fujairah,Delivered
+1718,352,50,2024-02-16,Sharjah,Cancelled
+1719,484,140,2024-03-07,Ras Al Khaimah,Delivered
+1720,495,95,2023-06-08,Dubai,Delivered
+1721,94,92,2023-01-14,Sharjah,Delivered
+1722,321,65,2024-01-08,Umm Al Quwain,Delivered
+1723,427,47,2023-08-13,Abu Dhabi,Delivered
+1724,39,181,2024-05-19,Ras Al Khaimah,Delivered
+1725,81,106,2023-03-14,Dubai,Delivered
+1726,187,199,2023-09-06,Sharjah,Delivered
+1727,84,130,2024-05-25,Umm Al Quwain,Delivered
+1728,88,106,2023-08-04,Abu Dhabi,Delivered
+1729,242,24,2024-06-24,Abu Dhabi,Delivered
+1730,342,4,2023-08-08,Dubai,Delivered
+1731,93,108,2023-08-09,Ajman,Delivered
+1732,86,19,2024-01-24,Umm Al Quwain,Delivered
+1733,44,154,2024-07-07,Umm Al Quwain,Delivered
+1734,137,40,2023-02-11,Fujairah,Delivered
+1735,421,50,2023-10-10,Dubai,Delivered
+1736,74,171,2023-02-27,Abu Dhabi,Delivered
+1737,36,75,2024-06-20,Abu Dhabi,Cancelled
+1738,101,195,2023-03-14,Dubai,Returned
+1739,476,12,2023-05-09,Ajman,Delivered
+1740,156,195,2024-08-21,Fujairah,Delivered
+1741,426,27,2024-03-01,Sharjah,Delivered
+1742,255,113,2023-05-05,Dubai,Delivered
+1743,171,182,2023-03-08,Fujairah,Delivered
+1744,469,194,2023-01-06,Umm Al Quwain,Delivered
+1745,216,49,2023-11-10,Fujairah,Delivered
+1746,170,144,2023-11-22,Ras Al Khaimah,Returned
+1747,252,130,2024-07-18,Abu Dhabi,Delivered
+1748,360,60,2024-07-31,Sharjah,Returned
+1749,322,182,2024-05-20,Dubai,Returned
+1750,55,30,2023-03-23,Abu Dhabi,Delivered
+1751,456,84,2024-08-21,Ras Al Khaimah,Delivered
+1752,432,166,2023-01-02,Ras Al Khaimah,Delivered
+1753,91,28,2023-07-23,Abu Dhabi,Delivered
+1754,278,25,2024-02-08,Ajman,Delivered
+1755,101,96,2023-04-13,Fujairah,Delivered
+1756,155,125,2024-06-19,Dubai,Delivered
+1757,377,10,2024-01-03,Dubai,Cancelled
+1758,349,188,2023-07-31,Dubai,Delivered
+1759,451,42,2024-07-30,Abu Dhabi,Cancelled
+1760,364,40,2023-07-28,Umm Al Quwain,Delivered
+1761,141,77,2023-04-27,Ajman,Returned
+1762,173,105,2024-04-22,Sharjah,Delivered
+1763,10,118,2023-04-15,Ras Al Khaimah,Delivered
+1764,228,42,2024-05-09,Abu Dhabi,Returned
+1765,265,47,2023-02-15,Umm Al Quwain,Delivered
+1766,438,165,2023-11-27,Sharjah,Delivered
+1767,248,22,2023-08-04,Ras Al Khaimah,Delivered
+1768,247,185,2024-05-06,Ras Al Khaimah,Delivered
+1769,155,107,2024-03-24,Ajman,Delivered
+1770,34,27,2024-06-19,Fujairah,Delivered
+1771,499,41,2024-05-25,Dubai,Delivered
+1772,129,80,2024-04-02,Sharjah,Delivered
+1773,160,162,2024-06-30,Abu Dhabi,Returned
+1774,89,160,2024-06-19,Sharjah,Delivered
+1775,93,89,2024-06-23,Fujairah,Delivered
+1776,327,66,2024-04-28,Dubai,Delivered
+1777,241,12,2023-01-16,Sharjah,Delivered
+1778,323,168,2024-07-24,Fujairah,Delivered
+1779,468,73,2023-08-31,Abu Dhabi,Delivered
+1780,404,76,2023-07-26,Ajman,Delivered
+1781,117,90,2023-09-28,Umm Al Quwain,Delivered
+1782,94,10,2023-04-25,Ras Al Khaimah,Delivered
+1783,163,96,2024-08-02,Abu Dhabi,Returned
+1784,99,176,2023-10-26,Dubai,Delivered
+1785,113,20,2024-04-27,Ras Al Khaimah,Delivered
+1786,359,39,2024-02-01,Umm Al Quwain,Cancelled
+1787,91,60,2024-01-29,Abu Dhabi,Delivered
+1788,346,66,2023-03-16,Abu Dhabi,Returned
+1789,206,65,2024-04-26,Abu Dhabi,Delivered
+1790,17,179,2023-04-13,Abu Dhabi,Returned
+1791,274,124,2023-10-24,Ras Al Khaimah,Delivered
+1792,173,164,2023-06-27,Dubai,Delivered
+1793,116,152,2023-08-03,Umm Al Quwain,Delivered
+1794,349,155,2023-11-11,Fujairah,Delivered
+1795,468,130,2023-02-08,Sharjah,Returned
+1796,181,159,2023-09-16,Ajman,Delivered
+1797,91,57,2023-01-07,Umm Al Quwain,Delivered
+1798,82,78,2023-02-18,Sharjah,Delivered
+1799,324,194,2024-06-21,Sharjah,Delivered
+1800,449,29,2023-06-10,Ajman,Delivered
+1801,114,15,2023-06-25,Umm Al Quwain,Delivered
+1802,257,12,2024-08-13,Ras Al Khaimah,Delivered
+1803,58,101,2023-01-02,Dubai,Delivered
+1804,154,156,2024-03-30,Ajman,Cancelled
+1805,365,84,2023-10-03,Dubai,Delivered
+1806,404,125,2024-05-12,Ras Al Khaimah,Delivered
+1807,116,103,2023-01-28,Sharjah,Returned
+1808,343,24,2023-11-29,Dubai,Delivered
+1809,266,149,2023-01-01,Ras Al Khaimah,Delivered
+1810,315,138,2023-07-07,Ras Al Khaimah,Delivered
+1811,203,110,2023-02-25,Fujairah,Delivered
+1812,41,78,2024-06-30,Ajman,Delivered
+1813,105,101,2023-04-22,Fujairah,Delivered
+1814,389,146,2023-11-06,Sharjah,Delivered
+1815,378,142,2023-02-05,Ajman,Delivered
+1816,193,162,2024-03-14,Sharjah,Delivered
+1817,401,128,2024-08-14,Fujairah,Cancelled
+1818,278,58,2024-08-17,Umm Al Quwain,Delivered
+1819,354,76,2024-07-30,Ras Al Khaimah,Delivered
+1820,237,150,2023-11-21,Sharjah,Delivered
+1821,425,198,2023-11-03,Ajman,Cancelled
+1822,221,36,2024-06-17,Ajman,Delivered
+1823,68,173,2023-04-19,Sharjah,Delivered
+1824,197,164,2024-01-07,Ajman,Returned
+1825,256,22,2023-12-23,Ras Al Khaimah,Delivered
+1826,139,127,2023-06-30,Umm Al Quwain,Returned
+1827,312,80,2023-12-22,Ras Al Khaimah,Delivered
+1828,435,189,2023-03-09,Ajman,Delivered
+1829,149,100,2023-10-19,Sharjah,Cancelled
+1830,99,184,2023-06-30,Fujairah,Delivered
+1831,76,96,2024-04-10,Ajman,Delivered
+1832,282,161,2024-03-09,Ajman,Delivered
+1833,371,173,2024-04-08,Ajman,Cancelled
+1834,403,164,2024-06-17,Ajman,Delivered
+1835,109,148,2023-03-07,Sharjah,Delivered
+1836,188,18,2023-01-21,Fujairah,Delivered
+1837,199,38,2024-01-19,Fujairah,Delivered
+1838,303,195,2024-07-12,Dubai,Delivered
+1839,327,151,2023-02-08,Ajman,Delivered
+1840,154,109,2023-10-12,Ajman,Delivered
+1841,40,123,2024-08-19,Dubai,Delivered
+1842,133,144,2023-12-02,Fujairah,Delivered
+1843,405,187,2023-07-07,Abu Dhabi,Delivered
+1844,462,197,2023-08-31,Ras Al Khaimah,Returned
+1845,132,196,2023-03-14,Abu Dhabi,Returned
+1846,279,149,2024-04-23,Fujairah,Delivered
+1847,362,104,2024-07-14,Umm Al Quwain,Delivered
+1848,84,198,2023-04-11,Ajman,Delivered
+1849,399,140,2024-05-28,Abu Dhabi,Delivered
+1850,242,144,2023-06-25,Sharjah,Delivered
+1851,116,81,2023-08-26,Sharjah,Delivered
+1852,109,87,2023-02-28,Dubai,Delivered
+1853,221,142,2023-04-09,Fujairah,Cancelled
+1854,392,61,2024-05-09,Fujairah,Delivered
+1855,41,199,2024-05-28,Abu Dhabi,Delivered
+1856,368,46,2023-10-24,Ajman,Delivered
+1857,147,32,2023-07-30,Fujairah,Cancelled
+1858,112,15,2023-05-03,Abu Dhabi,Delivered
+1859,103,44,2023-08-17,Abu Dhabi,Delivered
+1860,46,145,2024-08-16,Ras Al Khaimah,Delivered
+1861,412,169,2024-01-23,Ras Al Khaimah,Delivered
+1862,494,54,2023-05-20,Fujairah,Delivered
+1863,475,44,2024-06-24,Abu Dhabi,Delivered
+1864,324,98,2024-01-26,Dubai,Delivered
+1865,378,5,2023-09-27,Dubai,Delivered
+1866,271,109,2023-01-12,Ras Al Khaimah,Delivered
+1867,483,27,2024-01-24,Fujairah,Returned
+1868,421,116,2023-12-03,Ajman,Delivered
+1869,385,87,2024-05-20,Umm Al Quwain,Delivered
+1870,195,104,2023-04-16,Dubai,Delivered
+1871,367,123,2023-02-01,Dubai,Delivered
+1872,280,79,2023-03-15,Ras Al Khaimah,Delivered
+1873,283,43,2023-06-20,Ras Al Khaimah,Delivered
+1874,40,97,2023-03-10,Fujairah,Returned
+1875,447,31,2023-12-28,Ras Al Khaimah,Cancelled
+1876,189,99,2024-03-08,Sharjah,Delivered
+1877,164,17,2023-04-10,Umm Al Quwain,Delivered
+1878,482,83,2023-01-09,Abu Dhabi,Delivered
+1879,477,110,2024-07-27,Dubai,Delivered
+1880,24,182,2023-01-29,Sharjah,Delivered
+1881,24,190,2023-04-24,Ajman,Delivered
+1882,490,32,2024-04-06,Sharjah,Cancelled
+1883,4,168,2023-05-23,Fujairah,Delivered
+1884,323,141,2024-01-25,Ajman,Cancelled
+1885,290,35,2023-06-06,Ajman,Returned
+1886,441,133,2023-12-01,Ras Al Khaimah,Returned
+1887,433,29,2023-09-17,Sharjah,Delivered
+1888,471,70,2023-03-23,Fujairah,Delivered
+1889,181,153,2024-03-16,Dubai,Delivered
+1890,248,95,2023-06-21,Umm Al Quwain,Delivered
+1891,116,22,2023-08-19,Ras Al Khaimah,Delivered
+1892,279,194,2023-03-16,Sharjah,Cancelled
+1893,365,173,2023-09-27,Dubai,Delivered
+1894,69,69,2023-03-03,Sharjah,Returned
+1895,351,89,2023-11-16,Ras Al Khaimah,Returned
+1896,254,72,2023-04-12,Dubai,Delivered
+1897,181,129,2024-03-04,Ras Al Khaimah,Delivered
+1898,318,172,2023-09-12,Sharjah,Delivered
+1899,169,87,2024-06-15,Ajman,Delivered
+1900,313,96,2024-07-23,Umm Al Quwain,Returned
+1901,249,75,2023-04-22,Abu Dhabi,Delivered
+1902,188,167,2023-11-09,Umm Al Quwain,Delivered
+1903,54,54,2024-04-05,Ajman,Delivered
+1904,326,88,2024-04-06,Ras Al Khaimah,Delivered
+1905,357,157,2023-04-02,Umm Al Quwain,Delivered
+1906,313,54,2023-02-21,Ras Al Khaimah,Returned
+1907,138,16,2024-06-03,Ras Al Khaimah,Delivered
+1908,168,99,2023-04-08,Dubai,Delivered
+1909,391,20,2023-08-24,Fujairah,Delivered
+1910,103,46,2024-01-09,Ras Al Khaimah,Delivered
+1911,422,195,2024-08-03,Umm Al Quwain,Delivered
+1912,85,193,2024-07-10,Umm Al Quwain,Cancelled
+1913,317,127,2023-08-22,Umm Al Quwain,Delivered
+1914,212,58,2023-02-01,Ajman,Delivered
+1915,3,181,2023-10-16,Abu Dhabi,Delivered
+1916,384,111,2024-08-01,Ras Al Khaimah,Delivered
+1917,179,129,2024-06-25,Ras Al Khaimah,Delivered
+1918,342,81,2023-04-24,Ras Al Khaimah,Delivered
+1919,303,194,2023-07-23,Dubai,Delivered
+1920,452,157,2023-01-29,Ras Al Khaimah,Returned
+1921,476,84,2024-04-18,Ajman,Delivered
+1922,332,70,2023-09-10,Sharjah,Delivered
+1923,38,8,2024-01-21,Fujairah,Delivered
+1924,499,29,2023-03-03,Umm Al Quwain,Delivered
+1925,420,112,2024-05-29,Ras Al Khaimah,Returned
+1926,239,179,2024-03-05,Dubai,Cancelled
+1927,169,161,2024-08-02,Ajman,Delivered
+1928,453,131,2024-06-20,Ras Al Khaimah,Returned
+1929,397,188,2023-05-21,Dubai,Returned
+1930,343,163,2023-10-27,Sharjah,Cancelled
+1931,314,197,2023-11-07,Abu Dhabi,Delivered
+1932,306,108,2024-04-15,Ras Al Khaimah,Delivered
+1933,30,109,2024-01-28,Ajman,Delivered
+1934,190,20,2024-03-20,Dubai,Returned
+1935,357,73,2023-06-21,Dubai,Delivered
+1936,25,167,2024-07-29,Ras Al Khaimah,Delivered
+1937,112,4,2023-01-31,Dubai,Delivered
+1938,411,19,2023-02-16,Abu Dhabi,Delivered
+1939,435,102,2023-05-10,Dubai,Delivered
+1940,206,173,2023-12-18,Umm Al Quwain,Returned
+1941,185,171,2024-08-03,Fujairah,Delivered
+1942,382,141,2023-02-27,Umm Al Quwain,Returned
+1943,496,141,2023-04-16,Fujairah,Delivered
+1944,379,188,2023-11-26,Dubai,Delivered
+1945,47,185,2024-01-18,Ras Al Khaimah,Delivered
+1946,374,86,2023-06-11,Fujairah,Delivered
+1947,228,52,2023-10-13,Ajman,Delivered
+1948,39,111,2023-03-12,Fujairah,Delivered
+1949,16,181,2024-03-29,Umm Al Quwain,Delivered
+1950,22,109,2024-07-20,Dubai,Delivered
+1951,213,86,2024-02-01,Ras Al Khaimah,Delivered
+1952,310,43,2024-05-29,Sharjah,Delivered
+1953,149,200,2023-01-26,Ras Al Khaimah,Delivered
+1954,456,200,2023-11-09,Ras Al Khaimah,Delivered
+1955,241,42,2023-05-06,Ras Al Khaimah,Delivered
+1956,272,90,2024-02-12,Ajman,Delivered
+1957,59,115,2024-07-18,Abu Dhabi,Delivered
+1958,287,26,2023-07-17,Umm Al Quwain,Delivered
+1959,426,151,2023-07-07,Dubai,Delivered
+1960,202,43,2024-04-28,Abu Dhabi,Delivered
+1961,32,77,2024-03-25,Sharjah,Delivered
+1962,443,156,2024-06-06,Abu Dhabi,Delivered
+1963,162,137,2023-12-20,Dubai,Returned
+1964,255,20,2024-08-19,Umm Al Quwain,Delivered
+1965,254,184,2023-04-10,Umm Al Quwain,Delivered
+1966,9,39,2024-07-11,Dubai,Delivered
+1967,465,179,2024-07-09,Sharjah,Delivered
+1968,139,12,2023-10-05,Dubai,Delivered
+1969,480,183,2024-05-05,Sharjah,Delivered
+1970,10,11,2023-09-12,Sharjah,Cancelled
+1971,214,154,2024-01-16,Dubai,Returned
+1972,273,42,2024-06-25,Fujairah,Delivered
+1973,324,155,2023-09-21,Umm Al Quwain,Delivered
+1974,48,11,2023-11-25,Sharjah,Delivered
+1975,436,38,2023-04-25,Dubai,Delivered
+1976,111,98,2023-10-03,Fujairah,Delivered
+1977,153,171,2024-05-02,Umm Al Quwain,Delivered
+1978,123,19,2023-10-08,Sharjah,Delivered
+1979,405,192,2023-10-02,Umm Al Quwain,Delivered
+1980,357,134,2023-11-24,Fujairah,Cancelled
+1981,102,174,2023-07-30,Umm Al Quwain,Delivered
+1982,241,116,2024-07-05,Ajman,Cancelled
+1983,321,113,2023-01-26,Ras Al Khaimah,Cancelled
+1984,191,170,2023-01-27,Ajman,Delivered
+1985,217,65,2023-03-24,Fujairah,Delivered
+1986,51,99,2024-02-17,Sharjah,Delivered
+1987,292,72,2023-06-16,Dubai,Delivered
+1988,81,187,2023-06-18,Abu Dhabi,Delivered
+1989,489,52,2023-08-17,Dubai,Delivered
+1990,383,118,2024-01-02,Umm Al Quwain,Delivered
+1991,88,175,2024-06-11,Abu Dhabi,Delivered
+1992,194,120,2024-06-21,Abu Dhabi,Delivered
+1993,104,7,2024-06-07,Umm Al Quwain,Delivered
+1994,271,11,2023-03-13,Umm Al Quwain,Delivered
+1995,96,103,2023-04-16,Sharjah,Delivered
+1996,423,61,2023-10-09,Fujairah,Delivered
+1997,379,68,2023-05-13,Dubai,Delivered
+1998,198,153,2024-06-17,Fujairah,Delivered
+1999,1,140,2023-09-26,Ajman,Delivered
+2000,495,154,2024-02-16,Sharjah,Returned

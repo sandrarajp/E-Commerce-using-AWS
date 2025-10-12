@@ -1,0 +1,201 @@
+product_id,category,sub_category,price_AED,stock
+1,Electronics,Sub_1,3745,114
+2,Groceries,Sub_2,4596,178
+3,Perfumes,Sub_3,1621,226
+4,Perfumes,Sub_4,2428,387
+5,Groceries,Sub_5,360,128
+6,Luxury,Sub_6,2837,199
+7,Luxury,Sub_7,2516,264
+8,Home Appliances,Sub_8,4950,379
+9,Perfumes,Sub_9,1745,275
+10,Fashion,Sub_10,1709,158
+11,Home Appliances,Sub_11,3287,173
+12,Luxury,Sub_12,4426,149
+13,Groceries,Sub_13,281,356
+14,Luxury,Sub_14,1462,497
+15,Groceries,Sub_15,425,267
+16,Home Appliances,Sub_16,2210,383
+17,Perfumes,Sub_17,4457,278
+18,Luxury,Sub_18,263,190
+19,Groceries,Sub_19,4605,169
+20,Perfumes,Sub_20,4127,360
+21,Fashion,Sub_21,580,409
+22,Groceries,Sub_22,4157,297
+23,Home Appliances,Sub_23,2745,297
+24,Fashion,Sub_24,613,389
+25,Fashion,Sub_25,1846,235
+26,Electronics,Sub_26,3249,20
+27,Luxury,Sub_27,3307,19
+28,Groceries,Sub_28,4093,280
+29,Fashion,Sub_29,153,282
+30,Electronics,Sub_30,3158,433
+31,Home Appliances,Sub_31,3939,411
+32,Perfumes,Sub_32,92,192
+33,Groceries,Sub_33,4514,466
+34,Fashion,Sub_34,4245,162
+35,Luxury,Sub_35,2998,497
+36,Electronics,Sub_36,4381,324
+37,Fashion,Sub_37,2005,343
+38,Luxury,Sub_38,812,133
+39,Fashion,Sub_39,4279,482
+40,Groceries,Sub_40,114,123
+41,Groceries,Sub_41,1153,287
+42,Groceries,Sub_42,4937,423
+43,Home Appliances,Sub_43,257,477
+44,Home Appliances,Sub_44,2966,222
+45,Electronics,Sub_45,2550,181
+46,Groceries,Sub_46,1980,297
+47,Luxury,Sub_47,1068,444
+48,Fashion,Sub_48,2549,183
+49,Perfumes,Sub_49,2984,122
+50,Luxury,Sub_50,983,385
+51,Home Appliances,Sub_51,556,414
+52,Home Appliances,Sub_52,4243,492
+53,Luxury,Sub_53,3699,131
+54,Home Appliances,Sub_54,4207,41
+55,Groceries,Sub_55,3744,231
+56,Electronics,Sub_56,562,128
+57,Fashion,Sub_57,865,48
+58,Electronics,Sub_58,3623,277
+59,Fashion,Sub_59,3056,242
+60,Fashion,Sub_60,2514,440
+61,Electronics,Sub_61,4505,27
+62,Luxury,Sub_62,2739,158
+63,Fashion,Sub_63,1904,406
+64,Electronics,Sub_64,4158,158
+65,Fashion,Sub_65,4369,135
+66,Perfumes,Sub_66,3221,401
+67,Luxury,Sub_67,2730,311
+68,Groceries,Sub_68,1973,369
+69,Fashion,Sub_69,4757,247
+70,Perfumes,Sub_70,3870,144
+71,Groceries,Sub_71,709,160
+72,Groceries,Sub_72,1970,245
+73,Fashion,Sub_73,476,233
+74,Electronics,Sub_74,2150,212
+75,Fashion,Sub_75,3996,265
+76,Perfumes,Sub_76,4264,95
+77,Groceries,Sub_77,1199,159
+78,Fashion,Sub_78,4305,244
+79,Electronics,Sub_79,3585,354
+80,Fashion,Sub_80,902,31
+81,Luxury,Sub_81,419,357
+82,Electronics,Sub_82,628,294
+83,Perfumes,Sub_83,1658,278
+84,Groceries,Sub_84,2168,475
+85,Fashion,Sub_85,1402,267
+86,Electronics,Sub_86,1423,38
+87,Luxury,Sub_87,839,222
+88,Electronics,Sub_88,3312,472
+89,Home Appliances,Sub_89,839,445
+90,Luxury,Sub_90,439,292
+91,Perfumes,Sub_91,4239,59
+92,Groceries,Sub_92,4537,104
+93,Perfumes,Sub_93,3322,472
+94,Fashion,Sub_94,1528,416
+95,Electronics,Sub_95,787,97
+96,Home Appliances,Sub_96,2064,53
+97,Luxury,Sub_97,2159,470
+98,Luxury,Sub_98,3049,287
+99,Electronics,Sub_99,1569,180
+100,Home Appliances,Sub_100,1784,430
+101,Electronics,Sub_101,2665,198
+102,Fashion,Sub_102,3736,362
+103,Perfumes,Sub_103,4625,193
+104,Luxury,Sub_104,4501,12
+105,Fashion,Sub_105,2313,200
+106,Perfumes,Sub_106,4857,127
+107,Fashion,Sub_107,2728,28
+108,Home Appliances,Sub_108,920,32
+109,Luxury,Sub_109,3104,422
+110,Electronics,Sub_110,2029,39
+111,Electronics,Sub_111,261,304
+112,Perfumes,Sub_112,2405,117
+113,Groceries,Sub_113,4288,376
+114,Home Appliances,Sub_114,691,290
+115,Perfumes,Sub_115,183,137
+116,Groceries,Sub_116,484,238
+117,Fashion,Sub_117,3062,120
+118,Home Appliances,Sub_118,4612,145
+119,Fashion,Sub_119,4815,371
+120,Luxury,Sub_120,2462,195
+121,Home Appliances,Sub_121,4818,153
+122,Groceries,Sub_122,2375,81
+123,Luxury,Sub_123,4298,138
+124,Electronics,Sub_124,4744,373
+125,Groceries,Sub_125,2577,270
+126,Perfumes,Sub_126,565,12
+127,Electronics,Sub_127,4739,458
+128,Electronics,Sub_128,3855,397
+129,Perfumes,Sub_129,613,113
+130,Home Appliances,Sub_130,4859,492
+131,Electronics,Sub_131,3824,233
+132,Groceries,Sub_132,1479,329
+133,Luxury,Sub_133,3513,371
+134,Electronics,Sub_134,2621,363
+135,Groceries,Sub_135,2464,482
+136,Fashion,Sub_136,2692,19
+137,Groceries,Sub_137,4220,414
+138,Luxury,Sub_138,36,393
+139,Groceries,Sub_139,3211,311
+140,Perfumes,Sub_140,412,240
+141,Luxury,Sub_141,444,228
+142,Home Appliances,Sub_142,591,420
+143,Fashion,Sub_143,3651,75
+144,Perfumes,Sub_144,1140,434
+145,Home Appliances,Sub_145,261,121
+146,Groceries,Sub_146,3917,22
+147,Luxury,Sub_147,4115,402
+148,Fashion,Sub_148,2299,429
+149,Perfumes,Sub_149,808,95
+150,Home Appliances,Sub_150,734,243
+151,Home Appliances,Sub_151,4874,99
+152,Fashion,Sub_152,2869,323
+153,Groceries,Sub_153,795,63
+154,Fashion,Sub_154,4046,21
+155,Home Appliances,Sub_155,2267,218
+156,Electronics,Sub_156,98,471
+157,Perfumes,Sub_157,3946,23
+158,Fashion,Sub_158,875,130
+159,Home Appliances,Sub_159,2168,427
+160,Groceries,Sub_160,1051,446
+161,Home Appliances,Sub_161,4960,386
+162,Groceries,Sub_162,3291,29
+163,Fashion,Sub_163,3596,84
+164,Groceries,Sub_164,4202,409
+165,Luxury,Sub_165,3476,252
+166,Luxury,Sub_166,3526,232
+167,Luxury,Sub_167,427,79
+168,Electronics,Sub_168,2731,321
+169,Fashion,Sub_169,3108,220
+170,Home Appliances,Sub_170,1688,110
+171,Home Appliances,Sub_171,167,195
+172,Electronics,Sub_172,4347,141
+173,Groceries,Sub_173,3917,120
+174,Electronics,Sub_174,1970,390
+175,Groceries,Sub_175,385,141
+176,Groceries,Sub_176,1694,29
+177,Perfumes,Sub_177,4551,403
+178,Home Appliances,Sub_178,4514,33
+179,Luxury,Sub_179,2566,236
+180,Groceries,Sub_180,582,163
+181,Perfumes,Sub_181,3582,302
+182,Home Appliances,Sub_182,2509,239
+183,Luxury,Sub_183,792,478
+184,Groceries,Sub_184,2057,319
+185,Groceries,Sub_185,3443,497
+186,Electronics,Sub_186,2587,368
+187,Electronics,Sub_187,1593,414
+188,Home Appliances,Sub_188,3714,211
+189,Luxury,Sub_189,3311,47
+190,Groceries,Sub_190,1266,439
+191,Home Appliances,Sub_191,3739,269
+192,Home Appliances,Sub_192,3859,197
+193,Fashion,Sub_193,379,66
+194,Electronics,Sub_194,2396,438
+195,Luxury,Sub_195,3029,29
+196,Groceries,Sub_196,3013,282
+197,Home Appliances,Sub_197,982,128
+198,Groceries,Sub_198,3652,80
+199,Fashion,Sub_199,1847,13
+200,Luxury,Sub_200,1633,230
