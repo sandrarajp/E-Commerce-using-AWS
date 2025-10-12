@@ -1,6 +1,7 @@
 # 🛍️ CloudCart: AI-Powered E-Commerce Analytics using AWS  
 
-![Ecommerce Dashboard](https://github.com/user-attachments/assets/ecommerce-dashboard-preview.png)  
+![dashboard](https://github.com/user-attachments/assets/f45c7d28-fc0f-4950-89d5-d742a55c2c04)
+
 
 ---
 
@@ -59,7 +60,7 @@ Raw CSV data files are stored in **Amazon S3** and processed using **AWS Glue** 
 
 ## 📂 Project Structure  
 
-```bash
+
 ecommerce-aws-analytics/
 │
 ├── README.md                  # Project documentation
@@ -88,8 +89,10 @@ ecommerce-aws-analytics/
 │
 ├── reports/                    # Project reports and documentation
 │   └── analytics_summary.pdf
+│
+└── logs/                       # Glue & Athena logs
 
-Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Removed duplicate transactions and missing order IDs.
 
@@ -99,7 +102,7 @@ Derived new metrics (profit margin, conversion rate, customer lifetime value).
 
 Partitioned processed data in S3 for optimized Athena queries.
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Category Trends: Electronics and Apparel lead in total sales volume.
 
@@ -109,7 +112,7 @@ Seasonality: Sales peaks in November (Holiday Season).
 
 Marketing ROI: 23% uplift in conversions after campaign optimization.
 
-Research Questions & Key Findings
+## Research Questions & Key Findings
 
 Which product categories generate the most revenue?
 → Electronics & Fashion contribute 57% of total revenue.
@@ -123,7 +126,7 @@ Does marketing spend correlate with sales growth?
 Which customer segments drive profitability?
 → Loyal customers with ≥3 purchases per quarter deliver 65% of profits.
 
-Dashboard
+## Dashboard
 
 The AWS QuickSight Dashboard provides:
 
@@ -137,7 +140,7 @@ Revenue Forecasting: ML-based prediction using historical data
 
 Marketing ROI: Spend vs Return breakdown
 
-How to Run This Project
+## How to Run This Project
 
 Clone the Repository
 
@@ -174,7 +177,7 @@ Import data into AWS QuickSight.
 
 Visualize using the prebuilt dashboard template (/dashboard/).
 
-Final Recommendations
+## Final Recommendations
 
 Automate ETL jobs daily with AWS Glue & CloudWatch triggers.
 
@@ -186,7 +189,7 @@ Expand personalized recommendations using ML-based models.
 
 Deploy real-time monitoring for top 10 product categories.
 
-👤 Author & Contact
+## 👤 Author & Contact
 
 Sandra Raj P
 Data Analyst | AWS | Python | Power BI | E-Commerce Analytics
@@ -196,5 +199,3 @@ Data Analyst | AWS | Python | Power BI | E-Commerce Analytics
 🔗 LinkedIn: linkedin.com/in/sandrarajp
 
 📂 Portfolio: [Your Portfolio Link]
-│
-└── logs/                       # Glue & Athena logs
