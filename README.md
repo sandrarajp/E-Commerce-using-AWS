@@ -197,6 +197,6 @@ Data Analyst
 
 📧 Email: sandraraj36@gmail.com
 
-🔗 LinkedIn: [linkedin.com/in/sandrarajp]
+🔗 LinkedIn: [www.linkedin.com/in/sandrarajp]
 
 📂 Portfolio: [https://sandra-zvtm.vercel.app/]
